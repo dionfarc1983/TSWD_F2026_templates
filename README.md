@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # About me
-Hello! My name is Alvin C. Miranda (he/him), and I am currently pursuing a Master of Science in Public Policy and Management, Data Analytics (MSPPM-DA) at Carnegie Mellon University. I have a professional background in Industrial Engineering and an MBA, and I bring nearly two decades of experience from the Bangko Sentral ng Pilipinas (BSP), where I have served in leadership roles related to currency production and manufacturing operations.
+Hello! My name is AMET Miranda (he/him), and I am currently pursuing a Master of Science in Public Policy and Management, Data Analytics (MSPPM-DA) at Carnegie Mellon University. I have a professional background in Industrial Engineering and an MBA, and I bring nearly two decades of experience from the Bangko Sentral ng Pilipinas (BSP), where I have served in leadership roles related to currency production and manufacturing operations.
 
 Throughout my career, I have been passionate about continuous improvement, process optimization, and evidence-based decision-making. Working in a highly regulated manufacturing environment has taught me the importance of transforming complex operational data into meaningful insights that support better decisions. As a Production Manager, I regularly work with performance metrics, resource planning, quality management, and process improvement initiatives, which have strengthened my appreciation for the power of data when communicated effectively.
 
