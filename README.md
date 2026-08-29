@@ -7,9 +7,6 @@ Throughout my career, I have been passionate about continuous improvement, proce
 
 Outside of work and academics, I enjoy exploring new technologies, traveling, and learning innovative approaches to organizational improvement. I am particularly interested in how data visualization and storytelling can bridge the gap between technical analysis and practical decision-making. I believe that even the most sophisticated analysis creates value only when it can be clearly understood and acted upon by stakeholders.
 
-# My Recent Travels
-![Uploading IMG_2387.JPG…]()
-
 # What I hope to learn
 
 Through Telling Stories with Data, I hope to strengthen my ability to communicate analytical findings in a clear, compelling, and audience-centered manner. While my professional experience has provided me with a strong foundation in quantitative analysis and operational reporting, I would like to develop more effective ways to transform data into stories that influence decisions and drive action. Specifically, I am interested in learning best practices in data visualization, design principles, and narrative techniques that make complex information accessible to diverse audiences.
@@ -20,6 +17,7 @@ After graduating from Carnegie Mellon University, I plan to return to the Philip
 
 ## Assignment 1: Portfolio Setup and Introduction
 Portfolio website creation and personal introduction.
+- Web page URL: https://dionfarc1983.github.io/TSWD_F2026_templates/
 
 ## Assignment 2: Data Visualization Critique
 Evaluation of an existing data visualization and recommendations for improvement.
