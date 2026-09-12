@@ -16,9 +16,7 @@ To assess the effectiveness of an existing manufacturing performance dashboard a
 
 ## Shift Production Performance (Per Line)
 
-The dashboard is a real-time production performance display for Coin Production Line 2, shown on a large screen in the production area. It provides operators, supervisors, and management with instant visibility of output, operator performance, line efficiency, quality indicators, and target attainment. By making critical production information accessible at a glance, the dashboard promotes transparency, supports quick decision-making, and enables timely interventions needed to achieve daily production and quality objectives.
-
-./Shift%20Production%20Dashboard%20(Line%202.png)
+Shift%20Production%20Dashboard%20(Line%202.png)
 
 *Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.*
 
