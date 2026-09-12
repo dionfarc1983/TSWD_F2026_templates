@@ -14,9 +14,7 @@ To assess the effectiveness of an existing manufacturing performance dashboard a
 
 ## Step one: the visualization
 
-<p style="color:#1f77b4; font-size:24px; font-weight:bold;">
-Shift Production Performance (Line 2)
-</p>
+<h3 style="color:#1f77b4;">Shift Production Performance (Line 2)</h3>
 ![Shift Production Dashboard](Shift-Production-Dashboard-Line-2.png)
 *Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.*
 
