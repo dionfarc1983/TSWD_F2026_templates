@@ -17,7 +17,6 @@ To assess the effectiveness of an existing manufacturing performance dashboard a
 <h4>Shift Production Performance (Per Line)</h4>
 
 <img src="Shift-Production-Dashboard-Line-2.png" alt="Shift Production Dashboard Line 2" width="850">
-
 <p><em>Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.</em></p>
 
 
