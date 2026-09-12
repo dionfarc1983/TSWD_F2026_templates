@@ -1,15 +1,28 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Title: Evaluating and Redesigning a Real-Time Production Performance Dashboard
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+## Project Overview
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+This project evaluates a real-time production performance dashboard used in Coin Production Line 2 as a case study in data visualization design. The dashboard is displayed on a large monitor within the production area and serves as a primary source of operational information for operators, supervisors, and managers. It communicates production output, operator performance, quality indicators, and target attainment in real time to support daily production management.
+
+Using data visualization principles discussed in class, the project examines how effectively the dashboard communicates critical information and supports operational decision-making. The analysis identifies both strengths and areas for improvement related to visual hierarchy, usability, readability, and cognitive load. Based on this assessment, a redesign concept will be proposed to improve clarity, focus user attention on the most important performance indicators, and enhance the dashboard's ability to support timely and informed decisions on the shop floor.
+
+## Objective
+
+To assess the effectiveness of an existing manufacturing performance dashboard and develop redesign recommendations that improve communication, situational awareness, and decision support for production personnel.
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+## Shift Production Performance (Per Line)
+
+The dashboard is a real-time production performance display for Coin Production Line 2, shown on a large screen in the production area. It provides operators, supervisors, and management with instant visibility of output, operator performance, line efficiency, quality indicators, and target attainment. By making critical production information accessible at a glance, the dashboard promotes transparency, supports quick decision-making, and enables timely interventions needed to achieve daily production and quality objectives.
+
+./Shift%20Production%20Dashboard%20(Line%202.png)
+
+*Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.*
+
+
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
