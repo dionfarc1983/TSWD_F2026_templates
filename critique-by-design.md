@@ -19,6 +19,21 @@ To assess the effectiveness of an existing manufacturing performance dashboard a
 <img src="Shift-Production-Dashboard-Line-2.png" alt="Shift Production Dashboard Line 2" width="850">
 Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.
 
+### Personal Critique
+The dashboard provides valuable real-time production and quality information, helping promote transparency and operational awareness on the shop floor. However, the crowded layout, extensive use of colors, and limited emphasis on critical metrics make it difficult to quickly identify issues. A redesigned dashboard focused on visual hierarchy, target attainment, and exception-based monitoring could improve situational awareness and support faster decision-making.
+
+### Preliminary Redesign Ideas
+The redesigned dashboard should help users quickly answer three questions:
+1. Is the line meeting its target?
+2. Which operator or machine needs attention?
+3. Should quality performance remain on this dashboard, or would it be more effective to focus exclusively on real-time production metrics given that quality indicators are already tracked in the Overall Cumulative Production Dashboard?
+
+### Possible Changes
+- Remove non-essential graphics and simplify the layout, including evaluating whether quality metrics should remain on the dashboard.
+- Apply a consistent color scheme (Green = On Target, Yellow = Warning, Red = Action Required).
+- Use larger text and improved spacing to enhance readability from a shop-floor viewing distance.
+- Separate each line performance and overall line performance from individual operator performance to establish a clearer visual hierarchy.
+  
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
