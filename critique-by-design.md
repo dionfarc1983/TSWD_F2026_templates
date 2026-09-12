@@ -16,9 +16,7 @@ To assess the effectiveness of an existing manufacturing performance dashboard a
 
 ## Shift Production Performance (Per Line)
 
-## Shift Production Performance (Per Line)
-
-Shift-Production-Dashboard-(Line%202.png)
+Shift-Production-Dashboard-(Line 2).png
 
 *Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.*
 
