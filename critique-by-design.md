@@ -8,7 +8,7 @@ This project evaluates a real-time production performance dashboard used in Coin
 
 Using data visualization principles discussed in class, the project examines how effectively the dashboard communicates critical information and supports operational decision-making. The analysis identifies both strengths and areas for improvement related to visual hierarchy, usability, readability, and cognitive load. Based on this assessment, a redesign concept will be proposed to improve clarity, focus user attention on the most important performance indicators, and enhance the dashboard's ability to support timely and informed decisions on the shop floor.
 
-## Objective
+### Objective
 
 To assess the effectiveness of an existing manufacturing performance dashboard and develop redesign recommendations that improve communication, situational awareness, and decision support for production personnel.
 
@@ -19,16 +19,16 @@ To assess the effectiveness of an existing manufacturing performance dashboard a
 <img src="Shift-Production-Dashboard-Line-2.png" alt="Shift Production Dashboard Line 2" width="850">
 <br>Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.
 
-### Personal Critique
+#### Personal Critique
 The dashboard provides valuable real-time production and quality information, helping promote transparency and operational awareness on the shop floor. However, the crowded layout, extensive use of colors, and limited emphasis on critical metrics make it difficult to quickly identify issues. A redesigned dashboard focused on visual hierarchy, target attainment, and exception-based monitoring could improve situational awareness and support faster decision-making.
 
-### Preliminary Redesign Ideas
+#### Preliminary Redesign Ideas
 The redesigned dashboard should help users quickly answer three questions:
 1. Is the line meeting its target?
 2. Which operator or machine needs attention?
 3. Should quality performance remain on this dashboard, or would it be more effective to focus exclusively on real-time production metrics given that quality indicators are already tracked in the Overall Cumulative Production Dashboard?
 
-### Possible Changes
+#### Possible Changes
 - Remove non-essential graphics and simplify the layout, including evaluating whether quality metrics should remain on the dashboard.
 - Apply a consistent color scheme (Green = On Target, Yellow = Warning, Red = Action Required).
 - Use larger text and improved spacing to enhance readability from a shop-floor viewing distance.
@@ -61,11 +61,11 @@ The first question I asked myself was, *"What is the single most important thing
 
 ---
 
-## Mockup 3: Removing Distractions
+#### Mockup 3: Removing Distractions
 
 After promoting the key performance indicators, I looked for elements that competed for attention. I noticed that large graphics, decorative elements, and quality visuals occupied valuable screen space and distracted from the production story the dashboard was trying to tell. Since quality metrics are already available in another management dashboard, I challenged myself to remove or reduce these elements. This step taught me that effective dashboard design is often less about adding information and more about deciding what information does not need immediate visibility.
 
-Mockup3-Removing-Distractions.png
+<img src="Mockup 3- Removing Distractions.png" width="500">
 
 ---
 
