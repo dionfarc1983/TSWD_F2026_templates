@@ -89,7 +89,7 @@ As I continued refining the design, I wanted to make operator and machine perfor
 
 The final design represents my effort to transform the dashboard into a decision-support tool. Instead of asking users to search for information, the dashboard now guides them through a deliberate sequence. First, it presents overall and line-level performance to establish the current production status. Next, it highlights operator and machine-level performance to explain what is driving the results. Throughout the design, I intentionally reduced visual clutter, simplified color usage, and created clearer groupings of information. My goal was not to change the underlying data but to improve how the story is communicated so that users can quickly understand the situation and determine where intervention is needed.
 
-Mockup6-Final-Dashboard.png
+<img src="Mockup 6- Creating the Final Dashboard.png" width="500">
 
 ---
 
