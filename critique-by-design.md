@@ -69,15 +69,15 @@ After promoting the key performance indicators, I looked for elements that compe
 
 ---
 
-## Mockup 4: Organizing Information into Logical Zones
+#### Mockup 4: Organizing Information into Logical Zones
 
 At this stage, I realized that the dashboard still felt visually busy because users were being asked to process strategic and operational information simultaneously. To address this, I introduced two distinct information zones. The first zone focuses on overall and line-level performance, while the second focuses on operator and machine-level details. My intention was to create a natural flow that mirrors how supervisors make decisions: first understand overall performance, then investigate the factors contributing to that performance.
 
-Mockup4-Logical-Zones.png
+<img src="Mockup 4- Organizing Information into Logical Zones.png" width="500">
 
 ---
 
-## Mockup 5: Improving Accountability Through Performance Cards
+#### Mockup 5: Improving Accountability Through Performance Cards
 
 As I continued refining the design, I wanted to make operator and machine performance easier to compare. In the original dashboard, performance was grouped by production teams, which made comparisons less intuitive. I experimented with operator-centered performance cards that used a consistent structure and visual format. This redesign made it easier to identify high and low performers at a glance while preserving accountability. More importantly, it shifted the dashboard from simply reporting data to supporting action and intervention.
 
