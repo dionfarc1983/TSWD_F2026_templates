@@ -41,6 +41,10 @@ The production dashboard effectively supports real-time monitoring by consolidat
 
 ## Step three: Sketch a solution
 
+The complete dashboard redesign process, including the Python code used to generate the progressive mockups, is available in the Jupyter Notebook below:
+
+📓 [TSWD_Mockup_Design.ipynb](TSWD_Mockup_Design.ipynb)
+
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
