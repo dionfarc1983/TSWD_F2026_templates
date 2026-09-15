@@ -17,8 +17,7 @@ To assess the effectiveness of an existing manufacturing performance dashboard a
 ### Shift Production Performance (Line 2)
 
 <img src="Shift-Production-Dashboard-Line-2.png" alt="Shift Production Dashboard Line 2" width="850">
-
-Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.
+<br>Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.
 
 ### Personal Critique
 The dashboard provides valuable real-time production and quality information, helping promote transparency and operational awareness on the shop floor. However, the crowded layout, extensive use of colors, and limited emphasis on critical metrics make it difficult to quickly identify issues. A redesigned dashboard focused on visual hierarchy, target attainment, and exception-based monitoring could improve situational awareness and support faster decision-making.
