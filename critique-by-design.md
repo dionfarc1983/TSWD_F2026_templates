@@ -81,7 +81,7 @@ At this stage, I realized that the dashboard still felt visually busy because us
 
 As I continued refining the design, I wanted to make operator and machine performance easier to compare. In the original dashboard, performance was grouped by production teams, which made comparisons less intuitive. I experimented with operator-centered performance cards that used a consistent structure and visual format. This redesign made it easier to identify high and low performers at a glance while preserving accountability. More importantly, it shifted the dashboard from simply reporting data to supporting action and intervention.
 
-Mockup5-Performance-Cards.png
+<img src="Mockup 5- Improving Accountability Through Performance Cards.png" width="500">
 
 ---
 
