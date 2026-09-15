@@ -57,7 +57,7 @@ I started by examining our existing production dashboard from the perspective of
 
 The first question I asked myself was, *"What is the single most important thing a user should know within a few seconds of viewing the dashboard?"* For me, the answer was overall production performance. Inspired by the idea in *Good Charts* that important messages should be immediately visible, I moved overall and line-level performance to the top of the layout. My goal was to ensure that users could instantly determine whether the line was on track before diving into detailed operational information.
 
-Mockup2-Elevating-Main-Message.png
+<img src="Mockup 2- Elevating the Main Message.png" width="500">
 
 ---
 
