@@ -49,7 +49,7 @@ Following the principles discussed in *Good Charts* by Scott Berinato, I approac
 
 I started by examining our existing production dashboard from the perspective of an operator, supervisor, and manager. What immediately stood out to me was that the dashboard contained a wealth of useful operational information, including output, machine performance, operator performance, quality indicators, and line attainment. However, I realized that users needed to scan several sections before understanding the most important message: **How is the production line performing right now?** Although the dashboard was information-rich, it required significant effort to identify the overall status and priorities. This observation led me to focus on improving visual hierarchy rather than simply removing information.
 
-Mockup 1- Understanding the Existing Dashboard.png
+<img src="Mockup 1- Understanding the Existing Dashboard.png" width="850">
 
 ---
 
