@@ -41,9 +41,65 @@ The production dashboard effectively supports real-time monitoring by consolidat
 
 ## Step three: Sketch a solution
 
-The complete dashboard redesign process, including the Python code used to generate the progressive mockups, is available in the Jupyter Notebook below:
+Following the principles discussed in *Good Charts* by Scott Berinato, I approached the redesign as a storytelling exercise rather than a visual makeover. Instead of focusing on adding new information, I concentrated on improving how the dashboard communicates the most important message to operators, supervisors, and managers. The following mockups document my design journey from the existing dashboard to the final proposed design.
 
-📓 [TSWD_Mockup_Design.ipynb](TSWD_Mockup_Design.ipynb)
+---
+
+## Mockup 1: Understanding the Existing Dashboard
+
+I started by examining our existing production dashboard from the perspective of an operator, supervisor, and manager. What immediately stood out to me was that the dashboard contained a wealth of useful operational information, including output, machine performance, operator performance, quality indicators, and line attainment. However, I realized that users needed to scan several sections before understanding the most important message: **How is the production line performing right now?** Although the dashboard was information-rich, it required significant effort to identify the overall status and priorities. This observation led me to focus on improving visual hierarchy rather than simply removing information.
+
+Mockup1-Understanding-Existing-Dashboard.png
+
+---
+
+## Mockup 2: Elevating the Main Message
+
+The first question I asked myself was, *"What is the single most important thing a user should know within a few seconds of viewing the dashboard?"* For me, the answer was overall production performance. Inspired by the idea in *Good Charts* that important messages should be immediately visible, I moved overall and line-level performance to the top of the layout. My goal was to ensure that users could instantly determine whether the line was on track before diving into detailed operational information.
+
+Mockup2-Elevating-Main-Message.png
+
+---
+
+## Mockup 3: Removing Distractions
+
+After promoting the key performance indicators, I looked for elements that competed for attention. I noticed that large graphics, decorative elements, and quality visuals occupied valuable screen space and distracted from the production story the dashboard was trying to tell. Since quality metrics are already available in another management dashboard, I challenged myself to remove or reduce these elements. This step taught me that effective dashboard design is often less about adding information and more about deciding what information does not need immediate visibility.
+
+Mockup3-Removing-Distractions.png
+
+---
+
+## Mockup 4: Organizing Information into Logical Zones
+
+At this stage, I realized that the dashboard still felt visually busy because users were being asked to process strategic and operational information simultaneously. To address this, I introduced two distinct information zones. The first zone focuses on overall and line-level performance, while the second focuses on operator and machine-level details. My intention was to create a natural flow that mirrors how supervisors make decisions: first understand overall performance, then investigate the factors contributing to that performance.
+
+Mockup4-Logical-Zones.png
+
+---
+
+## Mockup 5: Improving Accountability Through Performance Cards
+
+As I continued refining the design, I wanted to make operator and machine performance easier to compare. In the original dashboard, performance was grouped by production teams, which made comparisons less intuitive. I experimented with operator-centered performance cards that used a consistent structure and visual format. This redesign made it easier to identify high and low performers at a glance while preserving accountability. More importantly, it shifted the dashboard from simply reporting data to supporting action and intervention.
+
+Mockup5-Performance-Cards.png
+
+---
+
+## Mockup 6: Creating the Final Dashboard
+
+The final design represents my effort to transform the dashboard into a decision-support tool. Instead of asking users to search for information, the dashboard now guides them through a deliberate sequence. First, it presents overall and line-level performance to establish the current production status. Next, it highlights operator and machine-level performance to explain what is driving the results. Throughout the design, I intentionally reduced visual clutter, simplified color usage, and created clearer groupings of information. My goal was not to change the underlying data but to improve how the story is communicated so that users can quickly understand the situation and determine where intervention is needed.
+
+Mockup6-Final-Dashboard.png
+
+---
+
+## Design Decision: Retaining the Dark Background
+
+One design element I intentionally retained from the original dashboard was the black background. While I explored several background color options during the redesign process, the final choice was based on actual testing and stakeholder feedback rather than personal preference. Because the dashboard is displayed on a large LED monitor in the production area, readability from a distance was a key consideration. Through demonstrations using different background colors and a survey of operators, supervisors, and managers, the dark background consistently received better feedback in terms of visibility, contrast, and ease of recognizing performance indicators from across the shop floor.
+
+I also found that the black background allowed key performance indicators and status colors to stand out more prominently. The green, yellow, and red performance indicators became easier to distinguish, helping users quickly identify areas that were on target and those requiring attention. Rather than treating the background as a visual design choice, I considered it part of the dashboard's operational environment and usability requirements.
+
+
 
 ## Step four: Test the solution
 
