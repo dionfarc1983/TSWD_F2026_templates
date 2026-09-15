@@ -45,15 +45,15 @@ Following the principles discussed in *Good Charts* by Scott Berinato, I approac
 
 ---
 
-## Mockup 1: Understanding the Existing Dashboard
+#### Mockup 1: Understanding the Existing Dashboard
 
 I started by examining our existing production dashboard from the perspective of an operator, supervisor, and manager. What immediately stood out to me was that the dashboard contained a wealth of useful operational information, including output, machine performance, operator performance, quality indicators, and line attainment. However, I realized that users needed to scan several sections before understanding the most important message: **How is the production line performing right now?** Although the dashboard was information-rich, it required significant effort to identify the overall status and priorities. This observation led me to focus on improving visual hierarchy rather than simply removing information.
 
-Mockup1-Understanding-Existing-Dashboard.png
+Mockup 1- Understanding the Existing Dashboard.png
 
 ---
 
-## Mockup 2: Elevating the Main Message
+#### Mockup 2: Elevating the Main Message
 
 The first question I asked myself was, *"What is the single most important thing a user should know within a few seconds of viewing the dashboard?"* For me, the answer was overall production performance. Inspired by the idea in *Good Charts* that important messages should be immediately visible, I moved overall and line-level performance to the top of the layout. My goal was to ensure that users could instantly determine whether the line was on track before diving into detailed operational information.
 
