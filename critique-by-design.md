@@ -100,7 +100,7 @@ One design element I intentionally retained from the original dashboard was the 
 I also found that the black background allowed key performance indicators and status colors to stand out more prominently. The green, yellow, and red performance indicators became easier to distinguish, helping users quickly identify areas that were on target and those requiring attention. Rather than treating the background as a visual design choice, I considered it part of the dashboard's operational environment and usability requirements.
 
 
-<img src="Production Dashboard (Draft Porposal).png" alt="ABC Production Dashboard - Line 2" width="850">
+<img src="Prod Dashboard (Draft).png" alt="ABC Production Dashboard - Line 2" width="850">
 <br>Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.
 
 
