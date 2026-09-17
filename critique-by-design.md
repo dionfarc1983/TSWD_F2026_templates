@@ -37,9 +37,9 @@ The redesigned dashboard should help users quickly answer three questions:
 
 ## Step two: the critique
 
-The production dashboard effectively supports real-time monitoring by consolidating production, operator, and quality information into a single display, making it a valuable tool for operators, supervisors, and managers. Using Stephen Few's Data Visualization Effectiveness Profile as an evaluation framework, the dashboard was assessed based on clarity, visual hierarchy, readability, and its ability to support efficient decision-making (Few, 2021). Its greatest strength is the level of operational detail and transparency it provides. However, the crowded layout, extensive use of colors, and limited visual hierarchy make it difficult to quickly identify the most critical information, such as overall line performance and target attainment, which are essential characteristics of effective dashboard design (Few, 2006). 
+The production dashboard effectively supports real-time monitoring by consolidating production, operator, and quality information into a single display, making it a valuable tool for operators, supervisors, and managers. Using Stephen Few's Data Visualization Effectiveness Profile as an evaluation framework, the dashboard was assessed based on usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement (Few, 2017). The dashboard's greatest strength is the level of operational detail and transparency it provides. However, the crowded layout, extensive use of colors, and limited visual hierarchy make it difficult to quickly identify the most critical information, such as overall line performance and target attainment. Few (2006) emphasizes that effective dashboards should highlight the most important information, minimize unnecessary visual clutter, and support rapid monitoring and decision-making.
 
-For the redesign, I plan to focus on reducing visual clutter, improving readability, strengthening visual hierarchy, and highlighting performance indicators that require immediate attention. I would also like to use this opportunity to gather feedback from my peers on our dashboard to identify additional opportunities for improving its clarity, usability, and decision-support capabilities.
+For the redesign, I plan to focus on reducing visual clutter, improving readability, strengthening visual hierarchy, and emphasizing performance indicators that require immediate attention. I also used peer feedback to identify additional opportunities for improving the dashboard's clarity, usability, and decision-support capabilities.
 
 ## Step three: Sketch a solution
 
@@ -89,7 +89,7 @@ As I continued refining the design, I wanted to make operator and machine perfor
 
 ## Mockup 6: Creating the Final Dashboard
 
-The final design represents my effort to transform the dashboard into a decision-support tool. Instead of asking users to search for information, the dashboard now guides them through a deliberate sequence. First, it presents overall and line-level performance to establish the current production status. Next, it highlights operator and machine-level performance to explain what is driving the results. Throughout the design, I intentionally reduced visual clutter, simplified color usage, and created clearer groupings of information to improve dashboard effectiveness and support rapid identification of operational issues (Few, 2006; Few, 2021). My goal was not to change the underlying data but to improve how the story is communicated so that users can quickly understand the situation and determine where intervention is needed.
+The final design represents my effort to transform the dashboard into a decision-support tool. Instead of asking users to search for information, the dashboard now guides them through a deliberate sequence. First, it presents overall and line-level performance to establish the current production status. Next, it highlights operator and machine-level performance to explain what is driving the results. Throughout the design, I intentionally reduced visual clutter, simplified color usage, and created clearer groupings of information to improve dashboard effectiveness and support rapid identification of operational issues(Few, 2006; Few, 2017). My goal was not to change the underlying data but to improve how the story is communicated so that users can quickly understand the situation and determine where intervention is needed.
 
 <img src="Mockup 6- Creating the Final Dashboard.png" width="500">
 
@@ -146,8 +146,8 @@ At the same time, the dashboard should be clear and easy to use for authorized p
 ## References
 - Berinato, S. (2024). Good charts workbook: Tips, tools, and exercises for making better data visualizations. Harvard Business Review Press.
 - Few, S. (2006). Information dashboard design: The effective visual communication of data. O'Reilly Media.
-- Few, S. (2021). Data visualization effectiveness profile. Perceptual Edge.
-- [Company Name Redacted]. (2026). Production Performance Dashboard (Line 2)
+- Few, S. (2017). Data visualization effectiveness profile. Perceptual Edge.
+- [Company Name Redacted]. (2026). Production Performance Dashboard (Line 2) [Internal company dashboard].
 
 
 ## AI acknowledgements
