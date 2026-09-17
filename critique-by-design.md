@@ -133,6 +133,9 @@ During the interviews, respondents were generally unable to quickly determine th
 
 ## Step five: build the solution
 
+<img src="PF Dashboard (Final).png" alt="Production Performance Dashboard - Line 2" width="850">
+<br>Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.
+
 #### Reflection
 
 I realized from this exercise that dashboards should be designed for their intended audience, not necessarily for everyone. At first, I wanted the dashboard to be understandable to all users, but the interviews made me realize that this may not be appropriate in security-sensitive environments such as currency production, military, or government operations. In these cases, limiting what outsiders can understand helps protect sensitive information and supports the "need-to-know" principle in information security.
