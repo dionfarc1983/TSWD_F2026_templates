@@ -146,7 +146,7 @@ At the same time, the dashboard should be clear and easy to use for authorized p
 ## References
 - Berinato, S. (2024). Good charts workbook: Tips, tools, and exercises for making better data visualizations. Harvard Business Review Press.
 - Few, S. (2006). Information dashboard design: The effective visual communication of data. O'Reilly Media.
-- Few, S. (2021). Data visualization effectiveness profile. Perceptual Edge. https://www.perceptualedge.com
+- Few, S. (2021). Data visualization effectiveness profile. Perceptual Edge.
 - [Company Name Redacted]. (2026). Production Performance Dashboard (Line 2)
 
 
