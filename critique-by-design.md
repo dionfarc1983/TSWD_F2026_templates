@@ -106,8 +106,6 @@ I also found that the black background allowed key performance indicators and st
 
 ## Step four: Test the solution
 
-## Step 4: Test the Solution
-
 #### Interview Results
 
 | Question | Person 1 | Person 2 | Person 3 |
@@ -129,16 +127,17 @@ During the interviews, respondents were generally unable to quickly determine th
 | Lack of Clarity | Users found the purpose of the dashboard and the acronyms difficult to understand. | Add **"DASHBOARD"** in the title and, as much as possible, avoid abbreviations. |
 | Need Better Organization | The information is not arranged in a way that is easy to follow. | Reorganize the layout and place information in a logical sequence. |
 
+
+
+
+## Step five: build the solution
+
 #### Reflection
 
 I realized from this exercise that dashboards should be designed for their intended audience, not necessarily for everyone. At first, I wanted the dashboard to be understandable to all users, but the interviews made me realize that this may not be appropriate in security-sensitive environments such as currency production, military, or government operations. In these cases, limiting what outsiders can understand helps protect sensitive information and supports the "need-to-know" principle in information security.
 
 At the same time, the dashboard should be clear and easy to use for authorized personnel. Even if outsiders do not understand the acronyms or operational details, the intended users should be able to quickly understand performance, identify issues, and make decisions. This exercise taught me that good dashboard design is about finding the right balance between usability and security while meeting the needs of the target audience.
 
-
-## Step five: build the solution
-
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
 _List any references you used here._
