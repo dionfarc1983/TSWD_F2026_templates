@@ -106,34 +106,35 @@ I also found that the black background allowed key performance indicators and st
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+## Step 4: Test the Solution
 
-Questions to ask (modify these for your own interviews): 
+#### Interview Results
 
-- Can you tell me what you think this is?
+| Question | Person 1 | Person 2 | Person 3 |
+|-----------|-----------|-----------|-----------|
+| Can you tell me what you think this is? | Not immediately clear. | Looks like a performance display. | Looks like a dashboard. |
+| Can you describe to me what this is telling you? | Hard to understand because of the acronyms. | Shows Line 2 performance. | Shows some performance information. |
+| Is there anything you find surprising or confusing? | Too many colors. Unfamiliar acronyms (MLN, ECC, EQPT, PERF). | Colors can be improved. | Avoid different colors. |
+| Is there anything you would change or do differently? | Use fewer colors. Black background is more readable than white. | Place Line 2 performance in sequential format. | Add the word "DASHBOARD" in the title. |
 
-- Can you describe to me what this is telling you?
+#### My Observations
 
-- Is there anything you find surprising or confusing?
+During the interviews, respondents were generally unable to quickly determine the purpose of the visualization. Most participants struggled to explain what insights could be derived from the illustration. The anonymization of critical information, including the operator's name, photograph, and DENO (product category), further reduced understanding because the context behind the data became less clear.
 
-- Who do you think is the intended audience for this?
+#### Synthesis Matrix
 
-- Is there anything you would change or do differently?
+| Theme | Feedback | Design Change |
+|---------|---------|---------|
+| Too Many Colors | The dashboard uses too many colors, making it harder to focus on important information. | The dashboard colors represent production codes and standard performance indicators. Because the intended users are already familiar with them, I would retain the current color scheme. |
+| Lack of Clarity | Users found the purpose of the dashboard and the acronyms difficult to understand. | Add **"DASHBOARD"** in the title and, as much as possible, avoid abbreviations. |
+| Need Better Organization | The information is not arranged in a way that is easy to follow. | Reorganize the layout and place information in a logical sequence. |
 
-Results: 
+#### Reflection
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+I realized from this exercise that dashboards should be designed for their intended audience, not necessarily for everyone. At first, I wanted the dashboard to be understandable to all users, but the interviews made me realize that this may not be appropriate in security-sensitive environments such as currency production, military, or government operations. In these cases, limiting what outsiders can understand helps protect sensitive information and supports the "need-to-know" principle in information security.
 
+At the same time, the dashboard should be clear and easy to use for authorized personnel. Even if outsiders do not understand the acronyms or operational details, the intended users should be able to quickly understand performance, identify issues, and make decisions. This exercise taught me that good dashboard design is about finding the right balance between usability and security while meeting the needs of the target audience.
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step five: build the solution
 
