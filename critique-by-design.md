@@ -37,7 +37,9 @@ The redesigned dashboard should help users quickly answer three questions:
 
 ## Step two: the critique
 
-The production dashboard effectively supports real-time monitoring by consolidating production, operator, and quality information into a single display, making it a valuable tool for operators, supervisors, and managers. Its greatest strength is the level of operational detail and transparency it provides. However, the crowded layout, extensive use of colors, and limited visual hierarchy make it difficult to quickly identify the most critical information, such as overall line performance and target attainment. For the redesign, I plan to focus on reducing visual clutter, improving readability, strengthening visual hierarchy, and highlighting performance indicators that require immediate attention. I would also like to use this opportunity to gather feedback from my peers on our dashboard to identify additional opportunities for improving its clarity, usability, and decision-support capabilities.
+The production dashboard effectively supports real-time monitoring by consolidating production, operator, and quality information into a single display, making it a valuable tool for operators, supervisors, and managers. Using Stephen Few's Data Visualization Effectiveness Profile as an evaluation framework, the dashboard was assessed based on clarity, visual hierarchy, readability, and its ability to support efficient decision-making (Few, 2021). Its greatest strength is the level of operational detail and transparency it provides. However, the crowded layout, extensive use of colors, and limited visual hierarchy make it difficult to quickly identify the most critical information, such as overall line performance and target attainment, which are essential characteristics of effective dashboard design (Few, 2006). 
+
+For the redesign, I plan to focus on reducing visual clutter, improving readability, strengthening visual hierarchy, and highlighting performance indicators that require immediate attention. I would also like to use this opportunity to gather feedback from my peers on our dashboard to identify additional opportunities for improving its clarity, usability, and decision-support capabilities.
 
 ## Step three: Sketch a solution
 
@@ -55,7 +57,7 @@ I started by examining our existing production dashboard from the perspective of
 
 #### Mockup 2: Elevating the Main Message
 
-The first question I asked myself was, *"What is the single most important thing a user should know within a few seconds of viewing the dashboard?"* For me, the answer was overall production performance. Inspired by the idea in *Good Charts* that important messages should be immediately visible, I moved overall and line-level performance to the top of the layout. My goal was to ensure that users could instantly determine whether the line was on track before diving into detailed operational information.
+The first question I asked myself was, *"What is the single most important thing a user should know within a few seconds of viewing the dashboard?"* For me, the answer was overall production performance. Inspired by the idea in Good Charts that important messages should be immediately visible, I moved overall and line-level performance to the top of the layout. This approach is also consistent with Few's recommendation that dashboards should emphasize the most important performance indicators through strong visual hierarchy (Few, 2006). My goal was to ensure that users could instantly determine whether the line was on track before diving into detailed operational information.
 
 <img src="Mockup 2- Elevating the Main Message.png" width="500">
 
@@ -71,7 +73,7 @@ After promoting the key performance indicators, I looked for elements that compe
 
 #### Mockup 4: Organizing Information into Logical Zones
 
-At this stage, I realized that the dashboard still felt visually busy because users were being asked to process strategic and operational information simultaneously. To address this, I introduced two distinct information zones. The first zone focuses on overall and line-level performance, while the second focuses on operator and machine-level details. My intention was to create a natural flow that mirrors how supervisors make decisions: first understand overall performance, then investigate the factors contributing to that performance.
+At this stage, I realized that the dashboard still felt visually busy because users were being asked to process strategic and operational information simultaneously. To address this, I introduced two distinct information zones. The first zone focuses on overall and line-level performance, while the second focuses on operator and machine-level details. My intention was to create a natural flow that mirrors how supervisors make decisions: first understand overall performance, then investigate the factors contributing to that performance. This separation is consistent with dashboard design principles that recommend grouping related information to reduce cognitive load and improve user comprehension (Few, 2006).
 
 <img src="Mockup 4- Organizing Information into Logical Zones.png" width="500">
 
@@ -87,7 +89,7 @@ As I continued refining the design, I wanted to make operator and machine perfor
 
 ## Mockup 6: Creating the Final Dashboard
 
-The final design represents my effort to transform the dashboard into a decision-support tool. Instead of asking users to search for information, the dashboard now guides them through a deliberate sequence. First, it presents overall and line-level performance to establish the current production status. Next, it highlights operator and machine-level performance to explain what is driving the results. Throughout the design, I intentionally reduced visual clutter, simplified color usage, and created clearer groupings of information. My goal was not to change the underlying data but to improve how the story is communicated so that users can quickly understand the situation and determine where intervention is needed.
+The final design represents my effort to transform the dashboard into a decision-support tool. Instead of asking users to search for information, the dashboard now guides them through a deliberate sequence. First, it presents overall and line-level performance to establish the current production status. Next, it highlights operator and machine-level performance to explain what is driving the results. Throughout the design, I intentionally reduced visual clutter, simplified color usage, and created clearer groupings of information to improve dashboard effectiveness and support rapid identification of operational issues (Few, 2006; Few, 2021). My goal was not to change the underlying data but to improve how the story is communicated so that users can quickly understand the situation and determine where intervention is needed.
 
 <img src="Mockup 6- Creating the Final Dashboard.png" width="500">
 
@@ -99,6 +101,7 @@ One design element I intentionally retained from the original dashboard was the 
 
 I also found that the black background allowed key performance indicators and status colors to stand out more prominently. The green, yellow, and red performance indicators became easier to distinguish, helping users quickly identify areas that were on target and those requiring attention. Rather than treating the background as a visual design choice, I considered it part of the dashboard's operational environment and usability requirements.
 
+While dashboard design guidance often emphasizes readability and contrast over aesthetic preferences, the final decision was based on actual user testing and operational needs within the production environment (Few, 2006).
 
 <img src="Prod Dashboard (Draft).png" alt="ABC Production Dashboard - Line 2" width="850">
 <br>Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.
@@ -128,8 +131,6 @@ During the interviews, respondents were generally unable to quickly determine th
 | Need Better Organization | The information is not arranged in a way that is easy to follow. | Reorganize the layout and place information in a logical sequence. |
 
 
-
-
 ## Step five: build the solution
 
 #### Reflection
@@ -140,8 +141,12 @@ At the same time, the dashboard should be clear and easy to use for authorized p
 
 
 ## References
-_List any references you used here._
+- Berinato, S. (2024). Good charts workbook: Tips, tools, and exercises for making better data visualizations. Harvard Business Review Press.
+- Few, S. (2006). Information dashboard design: The effective visual communication of data. O'Reilly Media.
+- Few, S. (2021). Data visualization effectiveness profile. Perceptual Edge. https://www.perceptualedge.com
+- [Company Name Redacted]. (2026). Production Performance Dashboard (Line 2)
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Microsoft Copilot was used to improve writing clarity, refine wording, and assist with GitHub Pages and Markdown (.md) formatting. It supported the presentation of this portfolio but did not replace my own analysis, design decisions, or conclusions.
 
