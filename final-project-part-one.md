@@ -34,7 +34,7 @@ As a first-time cross-country traveler, I want to understand the trade-offs betw
 
 Large title artwork using my personal travel photographs embedded into the letters of "AMTRAK."
 
-Planned image themes:
+Letter image themes:
 
 | Letter | Theme |
 |----------|----------|
