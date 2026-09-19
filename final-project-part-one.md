@@ -266,5 +266,5 @@ National Park Service. (n.d.). https://www.nps.gov
 
 ## AI Acknowledgements
 
-Microsoft Copilot was used to assist with brainstorming project ideas, refining the project scope, improving the narrative structure, formatting GitHub Markdown content, and developing preliminary visualization concepts. All final project decisions, story framing, data source selection, and written content were reviewed, revised, and approved by the author.
+Microsoft Copilot was used to assist with refining the project scope, improving the narrative structure, and formatting GitHub Markdown content.
 
