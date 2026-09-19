@@ -42,3 +42,8 @@ _List any references you used here._
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
 
+
+<img width="1272" height="371" alt="image" src="https://github.com/user-attachments/assets/60bdcab8-24b3-4dd4-9f65-9e4ac6a56255" />
+
+
+
