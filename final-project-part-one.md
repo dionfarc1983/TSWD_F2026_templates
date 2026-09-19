@@ -1,49 +1,57 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+## Outline
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+Air travel dominates long-distance transportation in the United States because it is fast, efficient, and often cost-competitive. However, many travelers continue to choose Amtrak's long-distance train routes, spending more than two days crossing the country rather than arriving in a few hours. For first-time travelers, this creates an important question: **Is a 48–52 hour train journey worth the additional time and cost compared to flying?**
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+This project explores that question through a comparison of transportation options and travel experiences. Using route schedules, travel costs, delay statistics, and terrain characteristics, I will compare two of Amtrak's most iconic routes: the **California Zephyr** and the **Southwest Chief**. While traditional transportation comparisons focus primarily on efficiency, this project evaluates the value of the journey itself by examining how landscapes, scenery, and travel experiences change across the United States. The goal is to provide first-time travelers with a data-informed framework for deciding when train travel makes sense and which route best matches their priorities.
 
-Text here...
+---
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+## Project Structure and Story Arc
 
-Text here...
+### One-Sentence Summary
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+**Flying gets you across America quickly; train travel allows you to experience America along the way.**
 
-Text here...
+### User Story
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+As a first-time cross-country traveler, I want to understand the trade-offs between flying and taking an Amtrak train so that I can decide whether the additional travel time is worth the scenic and experiential benefits.
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
-
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+### Story Arc
 
 
 
-<img width="1272" height="371" alt="image" src="https://github.com/user-attachments/assets/60bdcab8-24b3-4dd4-9f65-9e4ac6a56255" />
 
+
+
+## Initial Sketches
+
+### Sketch 1: Hero Banner
+
+**AMTRAK Photo Typography**
+
+Large title artwork using my personal travel photographs embedded into the letters of "AMTRAK."
+
+Planned image themes:
+
+| Letter | Theme |
+|----------|----------|
+| A | Colorado River, Eastern Rockies Corridor |
+| M | Rodeo, California |
+| T | White River National Forest |
+| R | Tahoe National Forest |
+| A | Laguna, New Mexico |
+| K | Eldorado Springs |
+
+<img width="1272" height="371" alt="image" src="https://github.com/user-attachments/assets/31747b6a-5e6d-4aaf-bb7b-05bcb60c8bd9" />
+
+**Purpose:**
+Introduce the project's theme and immediately communicate that this story is about experiencing the landscape, not simply reaching a destination.
+
+---
+
+### Sketch 2: Travel Mode Trade-Off
 
 
