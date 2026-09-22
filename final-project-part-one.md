@@ -74,6 +74,19 @@ For someone focused on reaching the destination quickly, flying clearly wins. Fo
 **Working insight:** 
 <br>The chart may overstate the cost disadvantage of the Roomette because it treats bundled lodging and meals as transportation costs.
 
+---
+
+#### Sketch 3: The 2x2 Decision Matrix
+
+<img src="Travel Mode Trade-Off.png" alt="__" width="700">
+
+As I reflected on the travel planning process, I realized that the decision was influenced by three factors: **(1) cost**, **(2) how much time I was willing to spend traveling**, and **(3) how much I valued the scenery along the way**. While cost is always an important consideration, I found myself prioritizing the overall experience. For this reason, I chose to focus the matrix on **Time Flexibility** and **Scenic Priority**, using cost as supporting context within each travel option rather than as one of the primary axes.
+
+This led me to sketch a simple 2×2 matrix. The horizontal axis represents **Time Flexibility**, ranging from travelers who want to reach their destination quickly to those who are willing to spend multiple days in transit. The vertical axis represents **Scenic Priority**, ranging from travelers who view transportation mainly as a means to an end to those who see the journey itself as part of the experience.
+
+Using these two dimensions helped me organize the available options and better understand the trade-offs involved. Air travel naturally falls into the low-time, low/no-scenery quadrant, while rail options move toward greater scenic value and longer travel times. The California Zephyr Coach and Roomette occupy similar positions in terms of scenery and travel time, but differ significantly in cost, comfort, and amenities. Separating them helped illustrate how travelers can experience the same route in different ways depending on their preferences and budget.
+
+This framework is still exploratory, but it helped me visualize how my own priorities gradually shifted from simply reaching the destination to appreciating the journey itself, while remaining mindful of the costs associated with each choice.
 
 ---
 
