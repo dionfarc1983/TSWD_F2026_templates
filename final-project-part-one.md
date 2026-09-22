@@ -20,7 +20,7 @@ This project explores that question through a comparison of transportation optio
 As a first-time cross-country traveler, I want to understand the trade-offs between flying and taking an Amtrak train so that I can decide whether the additional travel time is worth the scenic and experiential benefits.
 
 ### Story Arc
-<img src="Project Story Arc.png" alt="__" width="850">
+<img src="Project Story Arc.png" alt="__" width="600">
 *Source: Author's visualization created using Python (Matplotlib and Seaborn), adapted from Berinato's (2016) Good Charts storytelling framework. Microsoft Copilot was used to assist in code refinement and visualization design.*
 
 <br>This visualization serves as the narrative blueprint for the project. The story begins by introducing the dilemma faced by first-time travelers: whether to prioritize speed through air travel or experience through rail travel. The tension rises as travelers confront trade-offs involving travel time, cost, comfort, and reliability. The narrative reaches its peak during the exploration of route scenery and landscapes, highlighting the unique experiences offered by long-distance train travel. Finally, the story resolves through a decision matrix that provides practical recommendations based on traveler preferences.
