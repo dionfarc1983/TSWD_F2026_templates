@@ -59,3 +59,26 @@ Introduce the project's theme and immediately communicate that this story is abo
 ### Sketch 2: Travel Mode Trade-Off
 
 
+---
+
+## The Data
+
+This project combines transportation, cost, and geographic data to compare cross-country travel experiences. The primary dataset will be constructed using route schedules and station information from Amtrak, supplemented by transportation cost information and rail performance statistics. Route-level information will be used to calculate travel times, cost-per-mile comparisons, and segment-level analysis of the California Zephyr and Southwest Chief.
+
+To evaluate the experiential value of train travel, the project will also incorporate terrain classifications and scenic ratings for route segments. Each route segment will be categorized into landscape types such as plains, mountains, canyons, deserts, and urban areas. These classifications will support visualizations showing how scenery changes over time and where travelers are most likely to encounter high-value viewing opportunities. The resulting dataset will allow comparisons not only of transportation efficiency but also of the travel experience itself.
+
+### Data Sources
+
+| Name | URL | Description |
+|------|-----|-------------|
+| Amtrak Route Guides | https://www.amtrak.com/routes.html | Official route schedules, mileage, and station information. |
+| Bureau of Transportation Statistics | https://www.bts.gov | Historical rail performance and delay metrics. |
+| Google Flights | https://www.google.com/travel/flights | Reference airfare pricing for comparable routes. |
+| AAA Fuel Cost Calculator | https://gasprices.aaa.com | Fuel-cost estimates for driving comparisons. |
+| National Park Service | https://www.nps.gov | Landscape descriptions and scenic reference information. |
+
+---
+
+## Method and Medium
+
+
