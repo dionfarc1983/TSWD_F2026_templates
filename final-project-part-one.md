@@ -69,16 +69,47 @@ To evaluate the experiential value of train travel, the project will also incorp
 
 ### Data Sources
 
-| Name | URL | Description |
-|------|-----|-------------|
-| Amtrak Route Guides | https://www.amtrak.com/routes.html | Official route schedules, mileage, and station information. |
-| Bureau of Transportation Statistics | https://www.bts.gov | Historical rail performance and delay metrics. |
-| Google Flights | https://www.google.com/travel/flights | Reference airfare pricing for comparable routes. |
-| AAA Fuel Cost Calculator | https://gasprices.aaa.com | Fuel-cost estimates for driving comparisons. |
-| National Park Service | https://www.nps.gov | Landscape descriptions and scenic reference information. |
+| Source | URL | Purpose in Project |
+|----------|----------|----------|
+| Amtrak Routes and Destinations | https://www.amtrak.com/routes.html | Route maps, station locations, schedules, and mileage information for long-distance train routes. |
+| Bureau of Transportation Statistics (BTS) | https://www.bts.gov | Transportation statistics, rail performance data, and travel-related metrics. |
+| Google Flights | https://www.google.com/travel/flights | Reference airfare prices for comparable city-pair routes. |
+| AAA Fuel Cost Calculator | https://gasprices.aaa.com | Fuel cost estimates for automobile travel comparisons. |
+| National Park Service (NPS) | https://www.nps.gov | Scenic, geographic, and landscape information related to train routes. |
 
 ---
 
 ## Method and Medium
 
+---
+
+## Software and Tools
+
+| Tool | Purpose |
+|--------|--------|
+| Python | Data cleaning, analysis, and visualization development. |
+| Pandas | Data manipulation and processing. |
+| NumPy | Numerical calculations and analysis. |
+| Matplotlib | Statistical charts and custom visualizations. |
+| Seaborn | Enhanced data visualization styling and presentation. |
+| Microsoft Copilot | Assisted with visualization design, code refinement, and writing support. |
+| Google Colab | Interactive coding environment used for analysis and visualization generation. |
+
+---
+
+## References
+
+- Amtrak. (n.d.). *Routes and destinations*. https://www.amtrak.com/routes.html
+- American Automobile Association. (n.d.). *AAA fuel price and cost calculator*. https://gasprices.aaa.com
+- Berinato, S. (2016). *Good charts: The HBR guide to making smarter, more persuasive data visualizations*. Harvard Business Review Press.
+- Bureau of Transportation Statistics. (n.d.). *Bureau of Transportation Statistics*. U.S. Department of Transportation. https://www.bts.gov
+- Google. (n.d.). *Google Flights*. https://www.google.com/travel/flights
+- National Park Service. (n.d.). *National Park Service*. U.S. Department of the Interior. https://www.nps.gov
+
+---
+
+
+## AI Acknowledgements
+
+Microsoft Copilot was used to assist with refining the project scope, improving the narrative structure, and formatting GitHub Markdown content.
 
