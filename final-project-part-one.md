@@ -23,7 +23,7 @@ As a first-time cross-country traveler, I want to understand the trade-offs betw
 
 ## Project Story Arc
 
-![Project Story Arc.png](Project%20Story%20Arc.ect Story Arc**
+<img src="Project Story Arc.png" alt="__" width="850">
 
 This visualization serves as the narrative blueprint for the project. The story begins by introducing the dilemma faced by first-time travelers: whether to prioritize speed through air travel or experience through rail travel. The tension rises as travelers confront trade-offs involving travel time, cost, comfort, and reliability. The narrative reaches its peak during the exploration of route scenery and landscapes, highlighting the unique experiences offered by long-distance train travel. Finally, the story resolves through a decision matrix that provides practical recommendations based on traveler preferences.
 
