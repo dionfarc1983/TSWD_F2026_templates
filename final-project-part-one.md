@@ -58,6 +58,19 @@ Introduce the project's theme and immediately communicate that this story is abo
 
 ### Sketch 2: Travel Mode Trade-Off
 
+Looking at the chart, my first instinct is that flying is the obvious winner. It is by far the fastest option and costs only slightly more than an Amtrak coach seat.
+
+But then I realized that this comparison is only measuring transportation cost. The Amtrak Roomette is not really just a train ticket. It also includes a private room, bed, meals, and access to onboard amenities for two nights of travel.
+
+If I think of the Roomette as transportation + hotel + meals, the cost starts to make more sense. Some of the $1,200 fare is paying for comfort and accommodation, not just getting from Pittsburgh to Seattle.
+
+This raises a question: am I comparing travel modes, or am I comparing travel experiences?
+
+For someone focused on reaching the destination quickly, flying clearly wins. For someone who sees the journey as part of the trip, the Roomette offers value that is not captured in a simple cost-versus-time chart.
+
+**Working insight:** 
+<br>The chart may overstate the cost disadvantage of the Roomette because it treats bundled lodging and meals as transportation costs.
+
 
 ---
 
