@@ -78,7 +78,7 @@ For someone focused on reaching the destination quickly, flying clearly wins. Fo
 
 #### Sketch 3: The 2x2 Decision Matrix
 
-<img src="Travel Mode Trade-Off.png" alt="__" width="700">
+<img src="First-timer's Decision Matrix.png" alt="__" width="700">
 
 As I reflected on the travel planning process, I realized that the decision was influenced by three factors: **(1) cost**, **(2) how much time I was willing to spend traveling**, and **(3) how much I valued the scenery along the way**. While cost is always an important consideration, I found myself prioritizing the overall experience. For this reason, I chose to focus the matrix on **Time Flexibility** and **Scenic Priority**, using cost as supporting context within each travel option rather than as one of the primary axes.
 
