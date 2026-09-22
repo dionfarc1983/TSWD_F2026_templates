@@ -11,15 +11,15 @@ This project explores that question through a comparison of transportation optio
 
 ## Project Structure and Story Arc
 
-### One-Sentence Summary
+#### One-Sentence Summary
 
 Flying gets you across America quickly; train travel allows you to experience America along the way.
 
-### User Story
+#### User Story
 
 As a first-time cross-country traveler, I want to understand the trade-offs between flying and taking an Amtrak train so that I can decide whether the additional travel time is worth the scenic and experiential benefits.
 
-### Story Arc
+#### Story Arc
 
 <img src="Project Story Arc.png" alt="__" width="700">
 <br>*Source: Author's visualization created using Python (Matplotlib and Seaborn), adapted from Berinato's (2016) Good Charts storytelling framework. Microsoft Copilot was used to assist in code refinement and visualization design.*
@@ -32,7 +32,7 @@ As a first-time cross-country traveler, I want to understand the trade-offs betw
 
 ## Initial Sketches
 
-### Sketch 1: Hero Banner
+#### Sketch 1: Hero Banner
 
 **AMTRAK Photo Typography**
 
@@ -56,7 +56,7 @@ Introduce the project's theme and immediately communicate that this story is abo
 
 ---
 
-### Sketch 2: Travel Mode Trade-Off
+#### Sketch 2: Travel Mode Trade-Off
 
 <img src="Travel Mode Trade-Off.png" alt="__" width="700">
 <br>*Source: Author's visualization created using Python (Matplotlib and Seaborn).*
@@ -83,7 +83,7 @@ This project combines transportation, cost, and geographic data to compare cross
 
 To evaluate the experiential value of train travel, the project will also incorporate terrain classifications and scenic ratings for route segments. Each route segment will be categorized into landscape types such as plains, mountains, canyons, deserts, and urban areas. These classifications will support visualizations showing how scenery changes over time and where travelers are most likely to encounter high-value viewing opportunities. The resulting dataset will allow comparisons not only of transportation efficiency but also of the travel experience itself.
 
-### Data Sources
+#### Data Sources
 
 | Source | URL | Purpose in Project |
 |----------|----------|----------|
@@ -97,19 +97,19 @@ To evaluate the experiential value of train travel, the project will also incorp
 
 ## Method and Medium
 
-### Interactive Storytelling Platform
+#### Interactive Storytelling Platform
 
 At this stage, I am exploring **Shorthand** as the primary platform for presenting my story. I like the idea of a scrolling narrative that blends text, visuals, maps, and reflections into a single experience. Since this project is as much about the journey as the analysis, I want readers to feel like they are traveling alongside me rather than simply viewing a report.
 
-### Data Visualization Tools
+#### Data Visualization Tools
 
 As I continue developing the project, I plan to use **Tableau Public** to create interactive visualizations that allow readers to explore selected aspects of the journey on their own. For initial sketches and experimentation, I have been using **Python** to test different ways of presenting the data and to understand which visuals best support the story I want to tell.
 
-### Project Hosting and Documentation
+#### Project Hosting and Documentation
 
 I am using **GitHub Pages** as a working space to document the project's development. It serves as a place to organize notes, visual drafts, datasets, references, and progress updates.
 
-### Formats Avoided
+#### Formats Avoided
 
 Traditional presentation formats such as **Microsoft PowerPoint** and spreadsheet-centric delivery through **Microsoft Excel** are intentionally avoided. 
 
