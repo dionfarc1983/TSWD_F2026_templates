@@ -23,13 +23,9 @@ As a first-time cross-country traveler, I want to understand the trade-offs betw
 
 ## Project Story Arc
 
-<p align="center">
-  <imgect%20Story%20Arc.png
-</p>
+![Project Story Arc](Project%20Story%20Arc.ect Story Arc**
 
-****Figure 1. Project Story Arc****
-
-This visualization (using Python) serves as the narrative blueprint for the project. The story begins by introducing the dilemma faced by first-time travelers: whether to prioritize speed through air travel or experience through rail travel. The tension rises as travelers confront trade-offs involving travel time, cost, comfort, and reliability. The narrative reaches its peak during the exploration of route scenery and landscapes, highlighting the unique experiences offered by long-distance train travel. Finally, the story resolves through a decision matrix that provides practical recommendations based on traveler preferences, helping readers determine whether rail or air travel is the better choice for their needs.
+This visualization serves as the narrative blueprint for the project. The story begins by introducing the dilemma faced by first-time travelers: whether to prioritize speed through air travel or experience through rail travel. The tension rises as travelers confront trade-offs involving travel time, cost, comfort, and reliability. The narrative reaches its peak during the exploration of route scenery and landscapes, highlighting the unique experiences offered by long-distance train travel. Finally, the story resolves through a decision matrix that provides practical recommendations based on traveler preferences.
 
 *Source: Author's visualization created using Python (Matplotlib and Seaborn), adapted from Berinato's (2016) Good Charts storytelling framework. Microsoft Copilot was used to assist in code refinement and visualization design.*
 
