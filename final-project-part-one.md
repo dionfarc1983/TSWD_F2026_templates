@@ -58,6 +58,9 @@ Introduce the project's theme and immediately communicate that this story is abo
 
 ### Sketch 2: Travel Mode Trade-Off
 
+<img src="Travel Mode Trade-Off.png" alt="__" width="700">
+<br>*Source: Author's visualization created using Python (Matplotlib and Seaborn).*
+
 Looking at the chart, my first instinct is that flying is the obvious winner. It is by far the fastest option and costs only slightly more than an Amtrak coach seat.
 
 But then I realized that this comparison is only measuring transportation cost. The Amtrak Roomette is not really just a train ticket. It also includes a private room, bed, meals, and access to onboard amenities for two nights of travel.
