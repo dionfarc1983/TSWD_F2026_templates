@@ -97,6 +97,22 @@ To evaluate the experiential value of train travel, the project will also incorp
 
 ## Method and Medium
 
+### Interactive Storytelling Platform
+
+At this stage, I am exploring **Shorthand** as the primary platform for presenting my story. I like the idea of a scrolling narrative that blends text, visuals, maps, and reflections into a single experience. Since this project is as much about the journey as the analysis, I want readers to feel like they are traveling alongside me rather than simply viewing a report.
+
+### Data Visualization Tools
+
+As I continue developing the project, I plan to use **Tableau Public** to create interactive visualizations that allow readers to explore selected aspects of the journey on their own. For initial sketches and experimentation, I have been using **Python** to test different ways of presenting the data and to understand which visuals best support the story I want to tell.
+
+### Project Hosting and Documentation
+
+I am using **GitHub Pages** as a working space to document the project's development. It serves as a place to organize notes, visual drafts, datasets, references, and progress updates.
+
+### Formats Avoided
+
+Traditional presentation formats such as **Microsoft PowerPoint** and spreadsheet-centric delivery through **Microsoft Excel** are intentionally avoided. 
+
 ---
 
 ## Software and Tools
