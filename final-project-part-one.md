@@ -86,6 +86,8 @@ This led me to sketch a simple 2×2 matrix. The horizontal axis represents **Tim
 
 Using these two dimensions helped me organize the available options and better understand the trade-offs involved. Air travel naturally falls into the low-time, low/no-scenery quadrant, while rail options move toward greater scenic value and longer travel times. The California Zephyr Coach and Roomette occupy similar positions in terms of scenery and travel time, but differ significantly in cost, comfort, and amenities. Separating them helped illustrate how travelers can experience the same route in different ways depending on their preferences and budget.
 
+At the beginning of the planning process, I assumed the best travel option would simply be the fastest one. However, as I explored the available routes and considered what I wanted from the trip, I realized that scenic value and the experience of the journey became just as important as cost and travel time. The matrix helped me visualize this shift in priorities and better understand the trade-offs behind each option.
+
 This framework is still exploratory, but it helped me visualize how my own priorities gradually shifted from simply reaching the destination to appreciating the journey itself, while remaining mindful of the costs associated with each choice.
 
 ---
