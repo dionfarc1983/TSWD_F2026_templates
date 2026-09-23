@@ -124,9 +124,6 @@ As I continue developing the project, I plan to use **Tableau Public** to create
 
 I am using **GitHub Pages** as a working space to document the project's development. It serves as a place to organize notes, visual drafts, datasets, references, and progress updates.
 
-#### Formats Avoided
-
-Traditional presentation formats such as **Microsoft PowerPoint** and spreadsheet-centric delivery through **Microsoft Excel** are intentionally avoided. 
 
 ---
 
