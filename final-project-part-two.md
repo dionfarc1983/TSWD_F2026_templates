@@ -85,29 +85,28 @@ Goals
 
 ---
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+#### Interview findings
 
-Text here!
+The interviews produced several recurring themes.
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+First, participants found the travel experience itself to be the most interesting aspect of the story. The scenery, changing landscapes, and slower pace of travel created a perspective that differs significantly from flying.
 
----
+Second, participants wanted additional visualizations to support the narrative. They suggested using more charts, maps, and summary visuals to make comparisons easier to understand.
 
-#### Part II: In-Class Critique Reflection
+Third, interviewees noted that transportation choices are influenced by more than just cost and travel time. Comfort, convenience, flexibility, and overall experience were also important decision factors.
 
-I enjoyed seeing how creative my classmates were in presenting their stories.
-One presentation used an animated world map where information dynamically moved between cities. This visualization effectively connected the data to specific locations and made the story engaging and easy to follow.
-Another presentation emphasized important statistics by enlarging key numbers and placing them prominently on the screen. This helped direct attention to the most important insights and reinforced the main message.
+| Question | Interview 1 (Frequent Flyer) | Interview 2 (Leisure Traveler) | Interview 3 (Student Traveler) |
+|------------|------------|------------|------------|
+| What was most interesting? | Time comparison | Scenic experience | Cost and travel experience |
+| What could be improved? | More visualizations | More route details | Simplify information |
+| Was the story easy to follow? | Mostly yes | Yes | Mostly yes |
+| Would you take this trip? | Unlikely due to time commitment | Yes for the experience | Depends on cost and schedule |
 
-##### Top Three Observations / Recommendations
-1. Add more data visualizations to strengthen the storytelling.
-2. Consider additional comparison frameworks that evaluate travel options from multiple perspectives.
-3. Simplify slides and reduce clutter to focus attention on the most important insights.
+#### Key Insights
+- Travelers value comfort and experience, not just speed.
+- Additional visualizations would strengthen the story.
+- Simpler layouts improve audience understanding.
+- The train journey offers benefits that cannot be captured through time and cost comparisons alone.
    
 ##### Plans Going Forward
 The critique session gave me useful ideas to improve my presentation.
@@ -118,7 +117,6 @@ The biggest takeaway for me was that my presentation currently contains too much
 I also plan to introduce a travel comparison matrix that evaluates transportation options across multiple dimensions, helping readers understand the trade-offs beyond just time and cost.
 
 ---
-
 
 #### Identified changes for Part III
 
