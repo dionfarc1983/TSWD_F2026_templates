@@ -120,6 +120,13 @@ I also plan to introduce a travel comparison matrix that evaluates transportatio
 
 #### Identified changes for Part III
 
+| Research Synthesis | Anticipated Changes for Part III |
+|--------------------|----------------------------------|
+| Audience wants more visual support. | Add additional charts, maps, and comparison graphics. |
+| Some sections feel crowded. | Simplify layouts and reduce text. |
+| Important insights are not always obvious. | Highlight key findings more prominently. |
+| Readers evaluate travel using many factors. | Introduce a travel comparison matrix. |
+| The journey experience resonates strongly with audiences. | Expand visuals showcasing scenery and onboard experiences. |
 
 #### Travel Comparison Matrix
 
@@ -141,14 +148,22 @@ This matrix is planned for Part III and is based on factors identified through i
 
 *Actual prices vary based on route, season, and booking timing. Values are illustrative and will be validated and refined for Part III.*
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+## Final Reflection
 
-Text here!
+Part II helped me take a step back and look at my story from the audience's perspective. While scenery and the overall journey experience were already central themes in Part I, the interviews and critique session helped me realize that I was trying to show too many things at once. In my effort to capture the richness of the trip, some of the key messages became less visible.
+
+What stood out to me most was that people evaluate travel differently. Some immediately focus on time and cost, while others are more interested in comfort, convenience, or the experience itself. This reinforced my belief that there is no single "best" way to travel. Instead, the value of the journey depends on what matters most to the traveler.
+
+Personally, this process reminded me that good storytelling is not about sharing everything I experienced, but about selecting the moments, visuals, and insights that best support the story. As I move into Part III, I want to simplify the narrative, strengthen the visualizations, and make the trade-offs easier for readers to understand. My goal is to help readers answer the same question I asked myself before taking the trip: Is the additional travel time worth the experience of seeing America by rail?
+
+---
 
 ## References
-_List any references you used here._
+Amtrak. (2026). *Southwest Chief Route Guide*. https://www.amtrak.com
+Few, S. (2012). *Show Me the Numbers: Designing Tables and Graphs to Enlighten*. Analytics Press.
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+---
+
+## AI Acknowledgements
+I used Microsoft Copilot to assist with refining the concept, improving writing clarity, and formatting GitHub Markdown content.
 
