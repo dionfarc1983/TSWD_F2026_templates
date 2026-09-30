@@ -50,6 +50,9 @@ Interactive Tableau Map 
 - Comfort and onboard facilities
 - Observations from the trip
 
+Southwest Chief Route Trivia 
+<br><img src="Southwest Chief Trivia.png" alt="__" width="700">
+
 #### 5. Travel Comparison Matrix
 - Compare transportation options across multiple dimensions
 - Help readers evaluate trade-offs based on their priorities
