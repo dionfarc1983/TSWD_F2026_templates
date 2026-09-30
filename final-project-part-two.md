@@ -27,21 +27,26 @@ The central question guiding the project is:
 
 #### 1. The Travel Dilemma
 - Why would someone spend nearly two days on a train instead of taking a four-hour flight?
+
 #### 2. The Route
 - Introduction to the Amtrak Southwest Chief
 - Journey from Chicago to Los Angeles
 - Major stops and locations
+
 #### 3. Time and Cost
 - Travel duration comparison
 - Ticket price comparison
 - Hidden costs and benefits
+
 #### 4. The Journey Experience
 - Scenic highlights
 - Comfort and onboard facilities
 - Observations from the trip
+
 #### 5. Travel Comparison Matrix
 - Compare transportation options across multiple dimensions
 - Help readers evaluate trade-offs based on their priorities
+
 #### 6. Final Reflection
 - Was the train journey worth it?
 - Key lessons and recommendations
