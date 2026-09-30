@@ -36,12 +36,8 @@ The central question guiding the project is:
 **Planned Visualization**
 
 Interactive Tableau Map: 
-<iframe
-src="https://public.tableau.com/views/C5KZJ94W5?:showVizHome=no"
-width="100%"
-height="700"
-frameborder="0">
-</iframe>
+
+src="Interactive Map.png"
  
 The map will help readers explore the route, major stops, and geographic scale of the journey while providing context for the scenery and travel experiences discussed throughout the story.
 
