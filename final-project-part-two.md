@@ -61,6 +61,24 @@ Southwest Chief Route Trivia 
 - Compare transportation options across multiple dimensions
 - Help readers evaluate trade-offs based on their priorities
 
+The comparison matrix was developed directly from factors repeatedly identified during interviews, including travel time, cost, comfort, flexibility, privacy, and overall experience.
+
+| Factor | Amtrak Coach (1 pax) | Amtrak Roomette (2 pax) | Air Travel (1 pax, Economy) |
+|---------|---------|---------|---------|
+| Travel Time | ~43 hrs | ~43 hrs | ~4 hrs |
+| Typical Cost | \$150-\$250 | \$700-\$1,500 | \$100-\$400 |
+| Sleeping Comfort | ★★★☆☆ | ★★★★★ | ★★☆☆☆ |
+| Ability to Move Around | ★★★★★ | ★★★★★ | ★★☆☆☆ |
+| Privacy | ★☆☆☆☆ | ★★★★★ | ★★☆☆☆ |
+| Scenic Experience | ★★★★★ | ★★★★★ | ★★☆☆☆ |
+| Dining Experience | ★★★☆☆ | ★★★★☆ | ★★☆☆☆ |
+| Ease of Travel | ★★★★☆ | ★★★★★ | ★★☆☆☆ |
+| Schedule Flexibility | ★★☆☆☆ | ★★☆☆☆ | ★★★★★ |
+| Environmental Impact | ★★★★☆ | ★★★★☆ | ★★☆☆☆ |
+| Overall Experience | ★★★★☆ | ★★★★★ | ★★★☆☆ |
+
+*Actual prices vary based on route, season, and booking timing. Values are illustrative and will be validated and refined for Part III.*
+
 #### 6. Final Reflection
 - Was the train journey worth it?
 - Key lessons and recommendations
@@ -78,8 +96,6 @@ My target audience includes:
 
 To gather feedback, I interviewed individuals with different travel preferences, including frequent/leisure travelers/flyers, and students. This diverse group helped me better understand what information people consider when choosing a transportation mode.
 
----
-
 #### Interview Script
 
 Goals
@@ -96,8 +112,6 @@ Goals
 | Visualization Feedback | Which visualizations helped you understand the information best? |
 | Travel Preferences | Would you consider taking a long-distance train trip? Why or why not? |
 | Improvement Opportunities | What information would you like to see added or clarified? |
-
----
 
 #### Interview findings
 
@@ -130,8 +144,6 @@ One suggestion was to compare the Amtrak journey with bus travel. While this cou
 The biggest takeaway for me was that my presentation currently contains too much information. Going forward, I will simplify the content, reduce unnecessary details, and place greater emphasis on the visuals and insights that directly support the main story.
 I also plan to introduce a travel comparison matrix that evaluates transportation options across multiple dimensions, helping readers understand the trade-offs beyond just time and cost.
 
----
-
 #### Identified changes for Part III
 
 | Research Synthesis | Anticipated Changes for Part III |
@@ -142,25 +154,7 @@ I also plan to introduce a travel comparison matrix that evaluates transportatio
 | Readers evaluate travel using many factors. | Introduce a travel comparison matrix. |
 | The journey experience resonates strongly with audiences. | Expand visuals showcasing scenery and onboard experiences. |
 
-#### Travel Comparison Matrix
-
-This matrix is planned for Part III and is based on factors identified through interviews and feedback. The comparison matrix was developed directly from factors repeatedly identified during interviews, including travel time, cost, comfort, flexibility, privacy, and overall experience.
-
-| Factor | Amtrak Coach (1 pax) | Amtrak Roomette (2 pax) | Air Travel (1 pax, Economy) |
-|---------|---------|---------|---------|
-| Travel Time | ~43 hrs | ~43 hrs | ~4 hrs |
-| Typical Cost | \$150-\$250 | \$700-\$1,500 | \$100-\$400 |
-| Sleeping Comfort | ★★★☆☆ | ★★★★★ | ★★☆☆☆ |
-| Ability to Move Around | ★★★★★ | ★★★★★ | ★★☆☆☆ |
-| Privacy | ★☆☆☆☆ | ★★★★★ | ★★☆☆☆ |
-| Scenic Experience | ★★★★★ | ★★★★★ | ★★☆☆☆ |
-| Dining Experience | ★★★☆☆ | ★★★★☆ | ★★☆☆☆ |
-| Ease of Travel | ★★★★☆ | ★★★★★ | ★★☆☆☆ |
-| Schedule Flexibility | ★★☆☆☆ | ★★☆☆☆ | ★★★★★ |
-| Environmental Impact | ★★★★☆ | ★★★★☆ | ★★☆☆☆ |
-| Overall Experience | ★★★★☆ | ★★★★★ | ★★★☆☆ |
-
-*Actual prices vary based on route, season, and booking timing. Values are illustrative and will be validated and refined for Part III.*
+---
 
 ## Final Reflection
 
