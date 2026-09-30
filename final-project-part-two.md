@@ -125,7 +125,7 @@ This matrix is planned for Part III and is based on factors identified through i
 | Environmental Impact | ★★★★☆ | ★★★★☆ | ★★☆☆☆ |
 | Overall Experience | ★★★★☆ | ★★★★★ | ★★★☆☆ |
 
-*Values are illustrative and will be validated and refined for Part III.*
+**Actual prices vary based on route, season, and booking timing. Values are illustrative and will be validated and refined for Part III.*
 
 
 # Moodboards / personas
