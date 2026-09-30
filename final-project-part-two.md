@@ -125,9 +125,9 @@ This matrix is planned for Part III and is based on factors identified through i
 | Typical Cost | ~$150-$250 | ~$700-$1,500 | ~$100-$400 |
 | Sleeping Comfort | ★★★☆☆ | ★★★★★ | ★★☆☆☆ |
 | Ability to Move Around | ★★★★★ | ★★★★★ | ★★☆☆☆ |
-| Privacy | ★☆☆☆☆ | ★★★★★ | ★★☆☆☆ |
+| Privacy | ★★☆☆☆ | ★★★★★ | ★★☆☆☆ |
 | Scenic Experience | ★★★★★ | ★★★★★ | ★★☆☆☆ |
-| Dining Experience | ★★☆☆☆ | ★★★★☆ | ★★☆☆☆ |
+| Dining Experience | ★★★☆☆ | ★★★★☆ | ★★☆☆☆ |
 | Stress Level | ★★★★☆ | ★★★★★ | ★★☆☆☆ |
 | Schedule Flexibility | ★★☆☆☆ | ★★☆☆☆ | ★★★★★ |
 | Environmental Impact | ★★★★☆ | ★★★★☆ | ★★☆☆☆ |
