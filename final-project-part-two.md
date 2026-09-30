@@ -33,6 +33,13 @@ The central question guiding the project is:
 - Journey from Chicago to Los Angeles
 - Major stops and locations
 
+**Planned Visualization**
+
+Interactive Tableau Map: 
+[YOUR_TABLEAU_PUBLIC_LINK](https://public.tableau.com/shared/C5KZJ94W5?:display_count=n&:origin=viz_share_link)
+ 
+The map will help readers explore the route, major stops, and geographic scale of the journey while providing context for the scenery and travel experiences discussed throughout the story.
+
 #### 3. Time and Cost
 - Travel duration comparison
 - Ticket price comparison
@@ -130,7 +137,7 @@ I also plan to introduce a travel comparison matrix that evaluates transportatio
 
 #### Travel Comparison Matrix
 
-This matrix is planned for Part III and is based on factors identified through interviews and feedback.
+This matrix is planned for Part III and is based on factors identified through interviews and feedback. The comparison matrix was developed directly from factors repeatedly identified during interviews, including travel time, cost, comfort, flexibility, privacy, and overall experience.
 
 | Factor | Amtrak Coach (1 pax) | Amtrak Roomette (2 pax) | Air Travel (1 pax, Economy) |
 |---------|---------|---------|---------|
