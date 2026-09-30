@@ -124,6 +124,7 @@ This matrix is planned for Part III and is based on factors identified through i
 | Schedule Flexibility | ★★☆☆☆ | ★★☆☆☆ | ★★★★★ |
 | Environmental Impact | ★★★★☆ | ★★★★☆ | ★★☆☆☆ |
 | Overall Experience | ★★★★☆ | ★★★★★ | ★★★☆☆ |
+
 *Values are illustrative and will be validated and refined for Part III.*
 
 
