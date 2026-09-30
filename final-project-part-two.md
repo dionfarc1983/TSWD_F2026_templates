@@ -109,6 +109,24 @@ Text here!
 
 Text here!
 
+
+This matrix is planned for Part III and is based on factors identified through interviews and feedback.
+| Factor | Amtrak Coach (1pax) | Amtrak Roomette (2pax)| Air Travel (1pax, Economy) |
+|----------|----------|----------|----------|
+| Travel Time | ~43 hrs | ~43 hrs | ~4 hrs |
+| Typical Cost | ~$150-$250 | ~$700-$1,500 | ~$100-$400 |
+| Sleeping Comfort | ★★★☆☆ | ★★★★★ | ★★☆☆☆ |
+| Ability to Move Around | ★★★★★ | ★★★★★ | ★★☆☆☆ |
+| Privacy | ★☆☆☆☆ | ★★★★★ | ★★☆☆☆ |
+| Scenic Experience | ★★★★★ | ★★★★★ | ★★☆☆☆ |
+| Dining Experience | ★★☆☆☆ | ★★★★☆ | ★★☆☆☆ |
+| Stress Level | ★★★★☆ | ★★★★★ | ★★☆☆☆ |
+| Schedule Flexibility | ★★☆☆☆ | ★★☆☆☆ | ★★★★★ |
+| Environmental Impact | ★★★★☆ | ★★★★☆ | ★★☆☆☆ |
+| Overall Experience | ★★★★☆ | ★★★★★ | ★★★☆☆ |
+*Values are illustrative and will be validated and refined for Part III.*
+
+
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
 
