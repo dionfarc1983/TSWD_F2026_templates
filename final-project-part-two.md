@@ -1,9 +1,52 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+# Final Project Part II: Wireframes, User Research, and Story Refinement
 
-Text here!
+## Project Overview
+My project explores a cross-country journey aboard the Amtrak Southwest Chief from Chicago to Los Angeles and examines the trade-offs between speed, cost, comfort, and experience. While flying is the fastest option, the project investigates whether the additional travel time by train offers value through scenery, relaxation, comfort, and the overall travel experience.
+The central question guiding the project is:
+> **Is a multi-day train journey worth the extra time compared to flying?**
+
+---
+
+# Wireframes / Storyboards
+
+## Story Development Journey
+
+| Stage | Initial Thinking | What I Learned | Direction Going Forward |
+|---------|---------|---------|---------|
+| Choosing the Topic | Compare train travel with flying. | The story becomes more interesting when it focuses on the travel experience, not just transportation. | Keep the focus on whether the journey is worth the extra time. |
+| Building the Narrative | Focus on cost and travel time comparisons. | Scenery, comfort, and personal experiences are equally important. | Balance quantitative and qualitative comparisons. |
+| Designing Visuals | Planned basic charts showing cost and duration. | Visuals play a major role in helping readers understand trade-offs. | Add more maps, comparison charts, and summary visuals. |
+| User Interviews | Expected most people to prioritize cost and time. | Many valued comfort, scenery, and the experience itself. | Include factors beyond time and cost. |
+| Critique Session | More information would make the story stronger. | Too much information can distract from the main message. | Simplify slides and focus on key takeaways. |
+
+---
+
+## Planned Story Flow
+
+### 1. The Travel Dilemma
+- Why would someone spend nearly two days on a train instead of taking a four-hour flight?
+### 2. The Route
+- Introduction to the Amtrak Southwest Chief
+- Journey from Chicago to Los Angeles
+- Major stops and locations
+### 3. Time and Cost
+- Travel duration comparison
+- Ticket price comparison
+- Hidden costs and benefits
+### 4. The Journey Experience
+- Scenic highlights
+- Comfort and onboard facilities
+- Observations from the trip
+### 5. Travel Comparison Matrix
+- Compare transportation options across multiple dimensions
+- Help readers evaluate trade-offs based on their priorities
+### 6. Final Reflection
+- Was the train journey worth it?
+- Key lessons and recommendations
+
+---
 
 # User research 
 
