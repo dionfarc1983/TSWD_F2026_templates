@@ -56,9 +56,15 @@ The central question guiding the project is:
 ## User research 
 
 #### Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+My target audience includes:
+- Travelers considering alternatives to air travel
+- Individuals curious about long-distance rail travel
+- Readers interested in travel experiences and storytelling
+- Students and young professionals interested in affordable travel
 
-Text here!
+To gather feedback, I interviewed individuals with different travel preferences, including frequent/leisure travelers/flyers, and students. This diverse group helped me better understand what information people consider when choosing a transportation mode.
+
+---
 
 #### Interview script
 > List the goals from your research, and the questions you intend to ask. 
