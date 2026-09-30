@@ -136,6 +136,25 @@ This matrix is planned for Part III and is based on factors identified through i
 
 **Actual prices vary based on route, season, and booking timing. Values are illustrative and will be validated and refined for Part III.*
 
+## Travel Comparison Matrix
+
+This matrix is planned for Part III and is based on factors identified through interviews and feedback.
+
+| Factor | Amtrak Coach (1 pax) | Amtrak Roomette (2 pax) | Air Travel (1 pax, Economy) |
+|---------|---------|---------|---------|
+| Travel Time | ~43 hrs | ~43 hrs | ~4 hrs |
+| Typical Cost | \$150-\$250 | \$700-\$1,500 | \$100-\$400 |
+| Sleeping Comfort | ★★★☆☆ | ★★★★★ | ★★☆☆☆ |
+| Ability to Move Around | ★★★★★ | ★★★★★ | ★★☆☆☆ |
+| Privacy | ★☆☆☆☆ | ★★★★★ | ★★☆☆☆ |
+| Scenic Experience | ★★★★★ | ★★★★★ | ★★☆☆☆ |
+| Dining Experience | ★★★☆☆ | ★★★★☆ | ★★☆☆☆ |
+| Ease of Travel | ★★★★☆ | ★★★★★ | ★★☆☆☆ |
+| Schedule Flexibility | ★★☆☆☆ | ★★☆☆☆ | ★★★★★ |
+| Environmental Impact | ★★★★☆ | ★★★★☆ | ★★☆☆☆ |
+| Overall Experience | ★★★★☆ | ★★★★★ | ★★★☆☆ |
+
+*Actual prices vary based on route, season, and booking timing. Values are illustrative and will be validated and refined for Part III.*
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
