@@ -30,6 +30,7 @@ The central question guiding the project is:
 
 Transcontinental Routes 
 <br><img src="Transcontinental Figures.png" alt="__" width="700">
+<br>Note: This story focuses exclusively on the Amtrak Southwest Chief route between Chicago and Los Angeles.
 
 #### 2. The Route
 - Introduction to the Amtrak Southwest Chief
