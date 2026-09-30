@@ -128,7 +128,7 @@ This matrix is planned for Part III and is based on factors identified through i
 | Privacy | ★★☆☆☆ | ★★★★★ | ★★☆☆☆ |
 | Scenic Experience | ★★★★★ | ★★★★★ | ★★☆☆☆ |
 | Dining Experience | ★★★☆☆ | ★★★★☆ | ★★☆☆☆ |
-| Stress Level | ★★★★☆ | ★★★★★ | ★★☆☆☆ |
+| Ease of Travel | ★★★★☆ | ★★★★★ | ★★☆☆☆ |
 | Schedule Flexibility | ★★☆☆☆ | ★★☆☆☆ | ★★★★★ |
 | Environmental Impact | ★★★★☆ | ★★★★☆ | ★★☆☆☆ |
 | Overall Experience | ★★★★☆ | ★★★★★ | ★★★☆☆ |
