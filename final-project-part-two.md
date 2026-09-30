@@ -119,6 +119,7 @@ I also plan to introduce a travel comparison matrix that evaluates transportatio
 
 
 This matrix is planned for Part III and is based on factors identified through interviews and feedback.
+
 | Factor | Amtrak Coach (1pax) | Amtrak Roomette (2pax)| Air Travel (1pax, Economy) |
 |----------|----------|----------|----------|
 | Travel Time | ~43 hrs | ~43 hrs | ~4 hrs |
