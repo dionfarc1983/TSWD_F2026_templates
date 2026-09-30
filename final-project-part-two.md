@@ -66,19 +66,24 @@ To gather feedback, I interviewed individuals with different travel preferences,
 
 ---
 
-#### Interview script
-> List the goals from your research, and the questions you intend to ask. 
+#### Interview Script
 
-Text here!
-
+Goals
+1. Understand how people choose transportation options.
+2. Determine what information readers find most useful.
+3. Evaluate story clarity and engagement.
+4. Gather feedback on visualizations.
+5. Identify opportunities to strengthen the narrative.
+   
 | Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|--------|--------|
+| Travel Priorities | What factors influence your travel decisions most? |
+| Story Clarity | What part of the story was most interesting or memorable? |
+| Visualization Feedback | Which visualizations helped you understand the information best? |
+| Travel Preferences | Would you consider taking a long-distance train trip? Why or why not? |
+| Improvement Opportunities | What information would you like to see added or clarified? |
 
-
-Text here!
+---
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
