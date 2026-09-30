@@ -1,17 +1,17 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Final Project Part II: Wireframes, User Research, and Story Refinement
+## Final Project Part II: Wireframes, User Research, and Story Refinement
 
-## Project Overview
+#### Project Overview
 My project explores a cross-country journey aboard the Amtrak Southwest Chief from Chicago to Los Angeles and examines the trade-offs between speed, cost, comfort, and experience. While flying is the fastest option, the project investigates whether the additional travel time by train offers value through scenery, relaxation, comfort, and the overall travel experience.
 The central question guiding the project is:
 > **Is a multi-day train journey worth the extra time compared to flying?**
 
 ---
 
-# Wireframes / Storyboards
+## Wireframes / Storyboards
 
-## Story Development Journey
+#### Story Development Journey
 
 | Stage | Initial Thinking | What I Learned | Direction Going Forward |
 |---------|---------|---------|---------|
@@ -25,37 +25,37 @@ The central question guiding the project is:
 
 ## Planned Story Flow
 
-### 1. The Travel Dilemma
+#### 1. The Travel Dilemma
 - Why would someone spend nearly two days on a train instead of taking a four-hour flight?
-### 2. The Route
+#### 2. The Route
 - Introduction to the Amtrak Southwest Chief
 - Journey from Chicago to Los Angeles
 - Major stops and locations
-### 3. Time and Cost
+#### 3. Time and Cost
 - Travel duration comparison
 - Ticket price comparison
 - Hidden costs and benefits
-### 4. The Journey Experience
+#### 4. The Journey Experience
 - Scenic highlights
 - Comfort and onboard facilities
 - Observations from the trip
-### 5. Travel Comparison Matrix
+#### 5. Travel Comparison Matrix
 - Compare transportation options across multiple dimensions
 - Help readers evaluate trade-offs based on their priorities
-### 6. Final Reflection
+#### 6. Final Reflection
 - Was the train journey worth it?
 - Key lessons and recommendations
 
 ---
 
-# User research 
+## User research 
 
-## Target audience
+#### Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
 Text here!
 
-## Interview script
+#### Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
 Text here!
