@@ -95,7 +95,7 @@ Second, participants wanted additional visualizations to support the narrative. 
 
 Third, interviewees noted that transportation choices are influenced by more than just cost and travel time. Comfort, convenience, flexibility, and overall experience were also important decision factors.
 
-| Question | Interview 1                     (Frequent Flyer/Traveler) | Interview 2                 (Leisure Traveler) | Interview 3             (Student Traveler) |
+| Question | Interview 1 <br>(Frequent Flyer/Traveler) | Interview 2 <br>(Leisure Traveler) | Interview 3 <br>(Student Traveler) |
 |------------|------------|------------|------------|
 | What was most interesting? | Time comparison | Scenic experience | Cost and travel experience |
 | What could be improved? | Simplify information | More route details | More visualizations |
