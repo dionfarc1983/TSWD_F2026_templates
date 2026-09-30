@@ -28,6 +28,9 @@ The central question guiding the project is:
 #### 1. The Travel Dilemma
 - Why would someone spend nearly two days on a train instead of taking a four-hour flight?
 
+Transcontinental Routes 
+<br><img src="Transcontinental Figures.png" alt="__" width="700">
+
 #### 2. The Route
 - Introduction to the Amtrak Southwest Chief
 - Journey from Chicago to Los Angeles
