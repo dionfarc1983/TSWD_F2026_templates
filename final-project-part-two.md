@@ -36,9 +36,9 @@ The central question guiding the project is:
 **Planned Visualization**
 
 Interactive Tableau Map 
-<img src="Interactive Map.png" alt="__" width="700">
+<br><img src="Interactive Map.png" alt="__" width="700">
  
-The map will help readers explore the route, major stops, and geographic scale of the journey while providing context for the scenery and travel experiences discussed throughout the story.
+<br>The map will help readers explore the route, major stops, and geographic scale of the journey while providing context for the scenery and travel experiences discussed throughout the story.
 
 #### 3. Time and Cost
 - Travel duration comparison
