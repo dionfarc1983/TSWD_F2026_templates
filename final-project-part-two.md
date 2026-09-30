@@ -91,23 +91,31 @@ Text here!
 |                         |                                |             |             |
 |                         |                                |             |             |
 
+---
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+#### Part II: In-Class Critique Reflection
 
-Text here!
+I enjoyed seeing how creative my classmates were in presenting their stories.
+One presentation used an animated world map where information dynamically moved between cities. This visualization effectively connected the data to specific locations and made the story engaging and easy to follow.
+Another presentation emphasized important statistics by enlarging key numbers and placing them prominently on the screen. This helped direct attention to the most important insights and reinforced the main message.
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+##### Top Three Observations / Recommendations
+1. Add more data visualizations to strengthen the storytelling.
+2. Consider additional comparison frameworks that evaluate travel options from multiple perspectives.
+3. Simplify slides and reduce clutter to focus attention on the most important insights.
+   
+##### Plans Going Forward
+The critique session gave me useful ideas to improve my presentation.
+I plan to add more visualizations where they help strengthen the narrative and support key findings.
+One suggestion was to compare the Amtrak journey with bus travel. While this could provide additional context, it would significantly expand the scope of the project and require additional research. For now, I plan to keep the focus on train versus air travel.
 
-> ...include any final thoughts you have here. 
+The biggest takeaway for me was that my presentation currently contains too much information. Going forward, I will simplify the content, reduce unnecessary details, and place greater emphasis on the visuals and insights that directly support the main story.
+I also plan to introduce a travel comparison matrix that evaluates transportation options across multiple dimensions, helping readers understand the trade-offs beyond just time and cost.
 
-Text here!
+---
+
+
+#### Identified changes for Part III
 
 
 This matrix is planned for Part III and is based on factors identified through interviews and feedback.
