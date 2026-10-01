@@ -167,11 +167,14 @@ Personally, this process reminded me that good storytelling is not about sharing
 ---
 
 ## References
-Amtrak. (2026). *Southwest Chief Route Guide*. https://www.amtrak.com
-Few, S. (2012). *Show Me the Numbers: Designing Tables and Graphs to Enlighten*. Analytics Press.
+- Amtrak. (2026). *Southwest Chief Route Guide*. https://www.amtrak.com
+- Amtrak. (n.d.). *Routes and destinations*. https://www.amtrak.com/routes.html
+- Berinato, S. (2016). *Good charts: The HBR guide to making smarter, more persuasive data visualizations*. Harvard Business Review Press.
+- Few, S. (2012). *Show Me the Numbers: Designing Tables and Graphs to Enlighten*. Analytics Press.
+- Google. (n.d.). *Google Flights*. https://www.google.com/travel/flights
 
 ---
 
 ## AI Acknowledgements
-I used Microsoft Copilot to assist with refining the concept, improving writing clarity, and formatting GitHub Markdown content.
+Throughout this project, Microsoft Copilot was used to support brainstorming, writing refinement, visualization design, HTML/CSS scripting for Shorthand, and GitHub Markdown formatting. AI assistance was used as a productivity aid, while all project content, analysis, conclusions, and final outputs remained the responsibility of the author.
 
