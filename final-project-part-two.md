@@ -44,12 +44,7 @@ Interactive Tableau Map 
  
 <br>The map will help readers explore the route, major stops, and geographic scale of the journey while providing context for the scenery and travel experiences discussed throughout the story.
 
-#### 3. Time and Cost
-- Travel duration comparison
-- Ticket price comparison
-- Hidden costs and benefits
-
-#### 4. The Journey Experience
+#### 3. The Journey Experience
 - Scenic highlights
 - Comfort and onboard facilities
 - Observations from the trip
@@ -57,6 +52,11 @@ Interactive Tableau Map 
 Southwest Chief Route Trivia 
 <br><img src="Southwest Chief Trivia.png" alt="__" width="700">
 
+#### 4. Time and Cost
+- Travel duration comparison
+- Ticket price comparison
+- Hidden costs and benefits
+  
 #### 5. Travel Comparison Matrix
 - Compare transportation options across multiple dimensions
 - Help readers evaluate trade-offs based on their priorities
@@ -79,7 +79,11 @@ The comparison matrix was developed directly from factors repeatedly identified 
 
 *Actual prices vary based on route, season, and booking timing. Values are illustrative and will be validated and refined for Part III.*
 
-#### 6. Final Reflection
+#### 6. Amtrak Growth & Consumer Preference
+- Show 3-year ridership growth (2023-2025)
+- Top reasons Americans choose rail
+
+#### 7. Final Reflection
 - Was the train journey worth it?
 - Key lessons and recommendations
 
@@ -167,11 +171,18 @@ Personally, this process reminded me that good storytelling is not about sharing
 ---
 
 ## References
-- Amtrak. (2026). *Southwest Chief Route Guide*. https://www.amtrak.com
-- Amtrak. (n.d.). *Routes and destinations*. https://www.amtrak.com/routes.html
-- Berinato, S. (2016). *Good charts: The HBR guide to making smarter, more persuasive data visualizations*. Harvard Business Review Press.
-- Few, S. (2012). *Show Me the Numbers: Designing Tables and Graphs to Enlighten*. Analytics Press.
-- Google. (n.d.). *Google Flights*. https://www.google.com/travel/flights
+- Amtrak. (2026). Southwest Chief Route Guide. https://www.amtrak.com
+- Amtrak. (n.d.). Routes and destinations. https://www.amtrak.com/routes.html
+- Amtrak Corporate. (2024). FY 2024 Company Profile & Host Railroad Report Card. Amtrak Public Documents. https://www.amtrak.com/reports-documents
+- Amtrak Media Relations. (2024, December). Amtrak Sets All-Time Ridership Record in Fiscal Year 2024. Amtrak Media Center. https://media.amtrak.com/2024/12/amtrak-sets-all-time-ridership-record-in-fiscal-year-2024/
+- Apartment Therapy, EF Go Ahead Tours, & Qualtrics Research. (2026, May). The Biggest Travel Trend Brings You Back to the Golden Age: 2026 Train Tourism Survey. Apartment Therapy. https://www.apartmenttherapy.com/train-travel-trend-37692184
+- Berinato, S. (2016). Good charts: The HBR guide to making smarter, more persuasive data visualizations. Harvard Business Review Press.
+- Federal Railroad Administration & Bureau of Transportation Statistics. (2024). Quarterly Report on the Performance and Service Quality of Intercity Passenger Train Operations. U.S. Department of Transportation. https://railroads.dot.gov/
+- Few, S. (2012). Show Me the Numbers: Designing Tables and Graphs to Enlighten. Analytics Press.
+- Google. (n.d.). Google Flights Data & Fare Comparisons. https://www.google.com/travel/flights
+- Kempe, Y. / Smart Cities Dive. (2024, November). Amtrak sets ridership, ticket revenue records in FY24. Smart Cities Dive. https://www.smartcitiesdive.com/news/amtrak-ridership-record-northeast-corridor-long-distance-trains/734543/
+- The Hustle & Business Insider. (2025). Americans are finally getting into train travel. The Hustle. https://thehustle.co/news/americans-are-finally-getting-into-train-travel
+- TravelWagons Research. (2025). Train vs. Plane: Why Slow Travel is the Future of Tourism. TravelWagons Tourism Insights. https://travelwagons.com/blog/train-vs-plane-slow-travel-future
 
 ---
 
