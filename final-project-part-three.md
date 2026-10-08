@@ -53,9 +53,7 @@ One of the biggest lessons I learned was that effective storytelling with data i
 #### References
 Detailed references, image credits, and source citations are included within the Shorthand story.
 
-Sources used for the project included official Amtrak resources, route maps, geographic information, historical references related to Route 66 and the Southwest Chief corridor, and publicly available transportation and travel resources used to verify facts and route information.
-
-All efforts were made to review sources carefully, provide proper attribution, and ensure that information included in the story was supported by credible references.
+Sources used for the project included official Amtrak resources, route maps, geographic information, historical references related to Route 66 and the Southwest Chief corridor, and publicly available transportation and travel resources used to verify facts and route information. All efforts were made to review sources carefully, provide proper attribution, and ensure that information included in the story was supported by credible references.
 
 ---
 
