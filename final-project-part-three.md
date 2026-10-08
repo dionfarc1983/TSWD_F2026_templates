@@ -1,9 +1,16 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+ 
+#### Final Story Link
+**Amtrak Southwest Chief: A Journey Across America**
+[ https://carnegiemellon.shorthandstories.com/amtrak-southwest-chief-journey/index.html#group-section-Cover-ua0qKBNRjD]
 
-Text here!
+This project tells the story of my journey aboard the Amtrak Southwest Chief from Chicago to Los Angeles. As someone who enjoys traveling and experiencing new places, I wanted to explore how data could help tell the story of a memorable train journey across the United States.
+ 
+The story combines route information, maps, historical facts, geographic highlights, and personal observations gathered throughout the trip. Instead of focusing only on transportation data, I used data to provide context for the experience and help readers better understand the scale, diversity, and uniqueness of the journey. Through visuals, maps, trivia, and storytelling, the project aims to show how data can strengthen a narrative and make the experience more engaging for readers.
+
+---
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
