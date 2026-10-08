@@ -9,19 +9,19 @@
 **2200+ Miles on the Rails: Why I Traded a 4.5-hour Flight for 43 Hours of America?**
 <br>This project tells the story of my journey aboard the Amtrak Southwest Chief from Chicago to Los Angeles. As someone who enjoys traveling and experiencing new places, I wanted to explore how data could help tell the story of a memorable train journey across the United States.
 
-<br>The story combines route information, maps, historical facts, geographic highlights, and personal observations gathered throughout the trip. Instead of focusing only on transportation data, I used data to provide context for the experience and help readers better understand the scale, diversity, and uniqueness of the journey. Through visuals, maps, trivia, and storytelling, the project aims to show how data can strengthen a narrative and make the experience more engaging for readers.
+The story combines route information, maps, historical facts, geographic highlights, and personal observations gathered throughout the trip. Instead of focusing only on transportation data, I used data to provide context for the experience and help readers better understand the scale, diversity, and uniqueness of the journey. Through visuals, maps, trivia, and storytelling, the project aims to show how data can strengthen a narrative and make the experience more engaging for readers.
 
 ---
 
 #### Changes made since Part II
 Several changes were made after completing Part II. The biggest change was improving the overall flow of the story. While Part II contained many interesting facts and visuals, some sections felt disconnected from one another. For the final version, I reorganized the content so readers could follow the journey from Chicago to Los Angeles in a more natural and chronological way.
- 
+
 One thing I realized after Part II was that I was focusing too much on sharing information and not enough on telling a story. For the final version, I tried to make the journey the center of the experience and used data, maps, and facts to support the story rather than drive it.
- 
+
 I also reduced several text-heavy sections and relied more on visuals, photographs, and short data highlights. Some sections were rewritten to be more personal and reflective so readers could better understand what made the Southwest Chief special from my perspective. I added transitions between sections to create a smoother reading experience and help connect different parts of the journey.
- 
+
 Another important change was reviewing my sources and validating information. During the revision process, I revisited route facts, historical information, and trivia entries to ensure that claims were supported by reliable sources. Where necessary, I updated references, citations, and image credits to improve the accuracy and credibility of the story.
- 
+
 Feedback from classmates, course materials, and my own review of the story also helped me identify areas that needed simplification. As a result, the final version focuses more on the reader's experience and less on presenting large amounts of information.
 
 ---
