@@ -38,6 +38,8 @@ Developed the data analysis, visualizations, and narrative structure for the fin
 #### Assignment 6: Final Project (Part III)
 Integrated data, visualizations, and narrative into a complete interactive storytelling experience, using Shorthand to communicate insights through maps, charts, graphics, and personal reflection while applying data storytelling principles to engage the audience and support a clear call to action.
 
+Project link: https://carnegiemellon.shorthandstories.com/amtrak-southwest-chief-journey/index.html
+
 ---
 
 ## My page
