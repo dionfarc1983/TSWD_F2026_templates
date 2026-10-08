@@ -28,51 +28,51 @@ Feedback from classmates, course materials, and my own review of the story also 
 
 #### The audience
 The primary audience for this story includes prospective Amtrak travelers, transportation enthusiasts, students, and general readers who may be curious about long-distance train travel in the United States.
- 
+
 As I developed the project, I realized that many readers would likely be unfamiliar with the Southwest Chief and may never have taken a long-distance train trip before. Because of this, I avoided technical railroad terminology and focused on clear explanations, visuals, and relatable observations.
- 
+
 I also wanted the story to appeal to readers who enjoy travel experiences and scenic destinations. The Southwest Chief is known for passing through a wide variety of landscapes, and I wanted readers to experience that progression from the Midwest plains to the Rocky Mountains, deserts, and Southern California. To support this audience, I emphasized scenery, route highlights, interesting trivia, and personal reflections while using data to add context and support the narrative.
- 
+
 My goal was to create a story that could be enjoyed by both casual readers and people interested in transportation, even if they have little background knowledge about rail travel.
 
 ---
 
 #### Final design decisions
 One of my main goals was to make the story feel like a journey rather than a report. To do this, I organized the content in the same sequence that I experienced during the trip. This allows readers to travel along the route and see how the scenery, geography, and atmosphere change throughout the journey.
- 
+
 Because the scenery is one of the most memorable aspects of the Southwest Chief, I chose to use large photographs, immersive sections, and visual storytelling elements throughout the project. Rather than filling the story with numerous charts and graphics, I focused on a smaller number of meaningful visuals that helped support the narrative.
- 
+
 Another important design decision was keeping the amount of text manageable. Early versions contained much more information, but I learned that a good data story often benefits from simplicity. I tried to keep sections concise and allow the visuals and data highlights to complement the written narrative.
- 
+
 Throughout the project, I also became more aware of the importance of verifying information and properly citing sources. Since the story combines travel experiences with historical facts and route information, I wanted readers to feel confident that the information presented was accurate and supported by reliable references.
- 
+
 One of the biggest lessons I learned was that effective storytelling with data is not about including as much information as possible. It is about selecting the right information and presenting it in a way that helps readers better understand and connect with the story.
 
 ---
 
 #### References
 Detailed references, image credits, and source citations are included within the Shorthand story.
- 
+
 Sources used for the project included official Amtrak resources, route maps, geographic information, historical references related to Route 66 and the Southwest Chief corridor, and publicly available transportation and travel resources used to verify facts and route information.
- 
+
 All efforts were made to review sources carefully, provide proper attribution, and ensure that information included in the story was supported by credible references.
 
 ---
 
 #### AI acknowledgements
 Gemini Notebook and Copilot were used within the course guidelines to assist with brainstorming, visualization design, HTML/CSS scripting for Shorthand, and GitHub Markdown formatting. Further, Copiot was used to help generate alternative wording and simplify complex information for a broader audience.
- 
+
 All research, story development, source verification, design decisions, interpretation of information, and final content selections were completed and reviewed by the author. Any AI-generated suggestions were evaluated and edited before being incorporated into the final project.
 
 ---
 
 #### Final thoughts
 This project helped me better appreciate how data and storytelling can work together. At the beginning, I was mainly focused on presenting information, route details, and interesting facts about the Southwest Chief. As I continued working on the project, I realized that the most engaging stories are not necessarily the ones with the most data. Instead, data is most effective when it helps support and strengthen the story being told.
- 
+
 One of my biggest challenges was learning how to use Shorthand. Before this project, I had no experience with the platform and was unfamiliar with many of its features - though even until now =). A significant portion of my time was spent learning how different layouts work, organizing sections, embedding visual content, managing references and image credits, and creating a smooth flow for readers. There were several instances where I had to revise sections because what I envisioned did not work the way I expected in Shorthand. While this was sometimes frustrating, it was also one of the most valuable learning experiences from the project.
- 
+
 The part I enjoyed most was revisiting my Southwest Chief journey and reliving the experience through storytelling. It was rewarding to combine route data, maps, geography, history, and personal observations into a single narrative. The project allowed me to look back on the trip from a different perspective and appreciate details that I may not have noticed during the journey itself.
- 
+
 Looking back, I am happy with how the project evolved from a collection of travel information into a more complete and meaningful story. If I had more time, I would like to explore additional Shorthand features, incorporate more interactive elements, create custom visualizations, and include more original photographs from the trip. I would also spend more time refining certain transitions and interactive sections to further improve the reader experience.
 
 Overall, this project pushed me outside my comfort zone, both in storytelling and in learning a new platform. More importantly, it taught me that effective data storytelling is not just about presenting accurate information. It is about creating an experience that helps readers connect with the story behind the data. The project also reinforced many of the concepts from this course, particularly the importance of audience-centered design, narrative structure, and using data with purpose rather than simply displaying it.
