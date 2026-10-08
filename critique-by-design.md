@@ -1,20 +1,22 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title: Evaluating and Redesigning a Real-Time Production Performance Dashboard
+## Title: Evaluating and Redesigning a Real-Time Production Performance Dashboard
 
-## Project Overview
+#### Project Overview
 
 This project evaluates a real-time production performance dashboard used in Coin Production Line 2 as a case study in data visualization design. The dashboard is displayed on a large monitor within the production area and serves as a primary source of operational information for operators, supervisors, and managers. It communicates production output, operator performance, quality indicators, and target attainment in real time to support daily production management.
 
 Using data visualization principles discussed in class, the project examines how effectively the dashboard communicates critical information and supports operational decision-making. The analysis identifies both strengths and areas for improvement related to visual hierarchy, usability, readability, and cognitive load. Based on this assessment, a redesign concept will be proposed to improve clarity, focus user attention on the most important performance indicators, and enhance the dashboard's ability to support timely and informed decisions on the shop floor.
 
-### Objective
+#### Objective
 
 To assess the effectiveness of an existing manufacturing performance dashboard and develop redesign recommendations that improve communication, situational awareness, and decision support for production personnel.
 
-## Step one: the visualization
+---
 
-### Shift Production Performance (Line 2)
+### Step one: the visualization
+
+#### Shift Production Performance (Line 2)
 
 <img src="Shift-Production-Dashboard-Line-2.png" alt="Shift Production Dashboard - Line 2" width="850">
 <br>Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.
@@ -33,19 +35,21 @@ The redesigned dashboard should help users quickly answer three questions:
 - Apply a consistent color scheme (Green = On Target, Yellow = Warning, Red = Action Required).
 - Use larger text and improved spacing to enhance readability from a shop-floor viewing distance.
 - Separate each line performance and overall line performance from individual operator performance to establish a clearer visual hierarchy.
-  
 
-## Step two: the critique
+---
+
+### Step two: the critique
 
 The production dashboard effectively supports real-time monitoring by consolidating production, operator, and quality information into a single display, making it a valuable tool for operators, supervisors, and managers. Using Stephen Few's Data Visualization Effectiveness Profile as an evaluation framework, the dashboard was assessed based on usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement (Few, 2017). The dashboard's greatest strength is the level of operational detail and transparency it provides. However, the crowded layout, extensive use of colors, and limited visual hierarchy make it difficult to quickly identify the most critical information, such as overall line performance and target attainment. Few (2006) emphasizes that effective dashboards should highlight the most important information, minimize unnecessary visual clutter, and support rapid monitoring and decision-making.
 
 For the redesign, I plan to focus on reducing visual clutter, improving readability, strengthening visual hierarchy, and emphasizing performance indicators that require immediate attention. I also used peer feedback to identify additional opportunities for improving the dashboard's clarity, usability, and decision-support capabilities.
 
-## Step three: Sketch a solution
+---
+
+### Step three: Sketch a solution
 
 Following the principles discussed in *Good Charts* by Scott Berinato, I approached the redesign as a storytelling exercise rather than a visual makeover. Instead of focusing on adding new information, I concentrated on improving how the dashboard communicates the most important message to operators, supervisors, and managers. The following mockups document my design journey from the existing dashboard to the final proposed design.
 
----
 
 #### Mockup 1: Understanding the Existing Dashboard
 
@@ -53,7 +57,6 @@ I started by examining our existing production dashboard from the perspective of
 
 <img src="Mockup 1- Understanding the Existing Dashboard.png" width="500">
 
----
 
 #### Mockup 2: Elevating the Main Message
 
@@ -61,7 +64,6 @@ The first question I asked myself was, *"What is the single most important thing
 
 <img src="Mockup 2- Elevating the Main Message.png" width="500">
 
----
 
 #### Mockup 3: Removing Distractions
 
@@ -69,7 +71,6 @@ After promoting the key performance indicators, I looked for elements that compe
 
 <img src="Mockup 3- Removing Distractions.png" width="500">
 
----
 
 #### Mockup 4: Organizing Information into Logical Zones
 
@@ -77,7 +78,6 @@ At this stage, I realized that the dashboard still felt visually busy because us
 
 <img src="Mockup 4- Organizing Information into Logical Zones.png" width="500">
 
----
 
 #### Mockup 5: Improving Accountability Through Performance Cards
 
@@ -85,15 +85,13 @@ As I continued refining the design, I wanted to make operator and machine perfor
 
 <img src="Mockup 5- Improving Accountability Through Performance Cards.png" width="500">
 
----
 
-## Mockup 6: Creating the Final Dashboard
+#### Mockup 6: Creating the Final Dashboard
 
 The final design represents my effort to transform the dashboard into a decision-support tool. Instead of asking users to search for information, the dashboard now guides them through a deliberate sequence. First, it presents overall and line-level performance to establish the current production status. Next, it highlights operator and machine-level performance to explain what is driving the results. Throughout the design, I intentionally reduced visual clutter, simplified color usage, and created clearer groupings of information to improve dashboard effectiveness and support rapid identification of operational issues(Few, 2006; Few, 2017). My goal was not to change the underlying data but to improve how the story is communicated so that users can quickly understand the situation and determine where intervention is needed.
 
 <img src="Mockup 6- Creating the Final Dashboard.png" width="500">
 
----
 
 #### Design Decision: Retaining the Dark Background
 
@@ -106,8 +104,9 @@ While dashboard design guidance often emphasizes readability and contrast over a
 <img src="Prod Dashboard (Draft).png" alt="ABC Production Dashboard - Line 2" width="850">
 <br>Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.
 
+---
 
-## Step four: Test the solution
+### Step four: Test the solution
 
 #### Interview Results
 
@@ -130,11 +129,14 @@ During the interviews, respondents were generally unable to quickly determine th
 | Lack of Clarity | Users found the purpose of the dashboard and the acronyms difficult to understand. | Add **"DASHBOARD"** in the title and, as much as possible, avoid abbreviations. |
 | Need Better Organization | The information is not arranged in a way that is easy to follow. | Reorganize the layout and place information in a logical sequence. |
 
+---
 
-## Step five: build the solution
+### Step five: build the solution
 
 <img src="PF Dashboard (Final).png" alt="Production Performance Dashboard - Line 2" width="850">
 <br>Note: Certain information, including the operator's name, photograph, and DENO (product category), has been anonymized or altered due to confidentiality requirements.
+
+---
 
 #### Reflection
 
@@ -142,14 +144,16 @@ I realized from this exercise that dashboards should be designed for their inten
 
 At the same time, the dashboard should be clear and easy to use for authorized personnel. Even if outsiders do not understand the acronyms or operational details, the intended users should be able to quickly understand performance, identify issues, and make decisions. This exercise taught me that good dashboard design is about finding the right balance between usability and security while meeting the needs of the target audience.
 
+---
 
-## References
+#### References
 - Berinato, S. (2024). Good charts workbook: Tips, tools, and exercises for making better data visualizations. Harvard Business Review Press.
 - Few, S. (2006). Information dashboard design: The effective visual communication of data. O'Reilly Media.
 - Few, S. (2017). Data visualization effectiveness profile. Perceptual Edge.
 - [Company Name Redacted]. (2026). Production Performance Dashboard (Line 2) [Internal company dashboard].
 
+---
 
-## AI acknowledgements
+#### AI acknowledgements
 Microsoft Copilot was used to improve writing clarity, refine wording, and assist with GitHub Pages and Markdown (.md) formatting. It supported the presentation of this portfolio but did not replace my own analysis, design decisions, or conclusions.
 
