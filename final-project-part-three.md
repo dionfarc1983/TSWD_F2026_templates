@@ -4,7 +4,8 @@
  
 #### Final Story Link
 **Amtrak Southwest Chief: A Journey Across America**
-<br>[ https://carnegiemellon.shorthandstories.com/amtrak-southwest-chief-journey/index.html#group-section-Cover-ua0qKBNRjD]
+
+[View the Story](https://carnegiemellon.shorthandstories.com/amtrak-southwest-chief-journey/index.html#group-section-Trivia-4eFICxOjBv)
 
 **2200+ Miles on the Rails: Why I Traded a 4.5-hour Flight for 43 Hours of America?**
 <br>This project tells the story of my journey aboard the Amtrak Southwest Chief from Chicago to Los Angeles. As someone who enjoys traveling and experiencing new places, I wanted to explore how data could help tell the story of a memorable train journey across the United States.
