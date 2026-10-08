@@ -4,7 +4,6 @@
  
 #### Final Story Link
 **Amtrak Southwest Chief: A Journey Across America**
-
 [View the Story](https://carnegiemellon.shorthandstories.com/amtrak-southwest-chief-journey/index.html#group-section-Trivia-4eFICxOjBv)
 
 **2200+ Miles on the Rails: Why I Traded a 4.5-hour Flight for 43 Hours of America?**
